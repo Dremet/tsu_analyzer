@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "utcStartTimeTicks": 638467992692851840,
+  "utcStartTime": "2024-03-23T14:01:09+00:00",
+  "host": 90195553838163998,
+  "eventType": "Race",
+  "level": {
+    "name": "Ovalmania v1.0",
+    "guid": "xz8f9zssbv3-2z48xec",
+    "makerId": 76561198131829686,
+    "levelType": "Circuit"
+  },
+  "finishedState": "Finished",
+  "players": [
+    {
+      "player": {
+        "name": "André Petersen",
+        "id": 76561197989276622,
+        "localIndex": 0,
+        "ai": false,
+        "clan": "VSR",
+        "flag": "Germany"
+      },
+      "vehicle": {
+        "name": "Ferrari 488 GTE NWT",
+        "guid": "waamc9x2nqb-2w464lg"
+      },
+      "startPosition": 2
+    },
+    {
+      "player": {
+        "name": "McVizn",
+        "id": 76561198131829686,
+        "localIndex": 0,
+        "ai": false,
+        "clan": "VSR",
+        "flag": "Germany"
+      },
+      "vehicle": {
+        "name": "Ferrari 488 GTE NWT",
+        "guid": "waamc9x2nqb-2w464lg"
+      },
+      "startPosition": 1
+    }
+  ],
+  "raceStats": {
+    "maxLaps": 3,
+    "maxTimeWithoutStartTime": 864000000,
+    "startTime": 94000,
+    "hotlapping": true,
+    "raceRanking": {
+      "entries": [
+        {
+          "playerIndex": 0,
+          "lastCheckpoint": 0,
+          "time": 597239,
+          "lapsCompleted": 3
+        },
+        {
+          "playerIndex": 1,
+          "lastCheckpoint": 0,
+          "time": 615135,
+          "lapsCompleted": 3
+        }
+      ]
+    },
+    "lapRanking": {
+      "entries": [
+        {
+          "playerIndex": 1,
+          "time": 115215,
+          "cFlags": 0,
+          "lap": 3
+        },
+        {
+          "playerIndex": 0,
+          "time": 116423,
+          "cFlags": 0,
+          "lap": 3
+        }
+      ]
+    },
+    "checkpoints": {
+      "checkpointToSector": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "sectorToCheckpoint": [
+        0,
+        5,
+        13
+      ]
+    },
+    "playerStats": [
+      {
+        "startTime": 94000,
+        "lapsToFinish": 3,
+        "checkpointTimes": [
+          {
+            "cFlags": 0,
+            "times": [
+              230679,
+              239946,
+              247888,
+              254456,
+              262379,
+              270049,
+              281071,
+              287192,
+              293202,
+              298870,
+              304908,
+              311967,
+              317335,
+              323353,
+              329806,
+              336135,
+              341396,
+              346696,
+              351926
+            ]
+          },
+          {
+            "cFlags": 0,
+            "times": [
+              361167,
+              369927,
+              378352,
+              384670,
+              391736,
+              398626,
+              408850,
+              414206,
+              419517,
+              424653,
+              430197,
+              436509,
+              440912,
+              446179,
+              451886,
+              457543,
+              462365,
+              467318,
+              472318
+            ]
+          },
+          {
+            "cFlags": 0,
+            "times": [
+              480816,
+              488857,
+              496730,
+              503066,
+              510243,
+              517370,
+              528371,
+              533584,
+              538757,
+              543749,
+              549172,
+              555292,
+              559330,
+              564231,
+              569680,
+              575100,
+              579549,
+              584184,
+              588961
+            ]
+          },
+          {
+            "cFlags": 0,
+            "times": [
+              597239
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": 94000,
+        "lapsToFinish": 3,
+        "checkpointTimes": [
+          {
+            "cFlags": 0,
+            "times": [
+              231132,
+              241407,
+              256605,
+              266746,
+              276314,
+              285154,
+              295038,
+              301228,
+              307268,
+              312957,
+              319027,
+              325810,
+              330700,
+              336458,
+              342683,
+              349189,
+              355472,
+              361525,
+              367472
+            ]
+          },
+          {
+            "cFlags": 0,
+            "times": [
+              377822,
+              387165,
+              394409,
+              400106,
+              407017,
+              413825,
+              423377,
+              428836,
+              434214,
+              439357,
+              444966,
+              451269,
+              455599,
+              460904,
+              466827,
+              473103,
+              478831,
+              484480,
+              490115
+            ]
+          },
+          {
+            "cFlags": 0,
+            "times": [
+              499920,
+              508861,
+              515750,
+              521275,
+              527591,
+              533966,
+              542997,
+              547834,
+              552600,
+              557328,
+              562660,
+              569073,
+              573698,
+              579292,
+              585207,
+              591084,
+              596170,
+              601162,
+              606153
+            ]
+          },
+          {
+            "cFlags": 0,
+            "times": [
+              615135
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

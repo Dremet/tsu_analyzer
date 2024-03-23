@@ -1,0 +1,21 @@
+[project]
+name = "tsu_analyzer"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Andre Petersen", email = "info@tsura.org"},
+]
+dependencies = [
+    "pandas>=2.2.1",
+    "sqlalchemy>=2.0.28",
+    "alembic>=1.13.1",
+    "python-dotenv>=1.0.1",
+    "psycopg2-binary>=2.9.9",
+]
+requires-python = "==3.10.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+package-type = "application"
