@@ -14,6 +14,8 @@ When you host a dedicated server ([more information on dedicated servers in TSU]
 
 If you want to know which data is saved, have a look at the [models.py](/src/tsu_analyzer/db/models.py) file. Every single checkpoint time can be saved.
 
+Check [Saver.py](/src/tsu_analyzer/db/Saver.py) for the main logic of reading the file and saving them to the database.
+
 ## Config
 
 Create a .env file and define this variable:
