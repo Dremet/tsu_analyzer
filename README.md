@@ -28,3 +28,7 @@ TSU_HOTLAPPING_POSTGRES_URL=postgresql://user:password@host/database
 Obviously, you can change the variable name when you change it in the scripts as well. 
 
 In order to run this, you need to have a database with a "tsu" schema, run alembic migrations and then run models.py.
+
+## Thanks!
+
+Thanks to McVizn for the idea, thanks to Ande for replying quickly to all questions I had and thanks to the whole community for being awesome! :)
