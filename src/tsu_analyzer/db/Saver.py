@@ -320,6 +320,7 @@ class Saver:
                     ### Checkpoint Result ###
 
                     with Session(engine) as session:
+                        session.add(lap_result)
                         self.delete_existing_cp_results(session, lap_result.id)
 
                         cp_results = []
