@@ -20,14 +20,19 @@ If you want to know which data is saved, have a look at the [models.py](/src/tsu
 
 Check [Saver.py](/src/tsu_analyzer/db/Saver.py) for the main logic of reading the file and saving them to the database.
 
-## Config
+## Config / Setup
 
 Create a .env file and define this variable:
 TSU_HOTLAPPING_POSTGRES_URL=postgresql://user:password@host/database
 
 Obviously, you can change the variable name when you change it in the scripts as well. 
 
-In order to run this, you need to have a database with a "tsu" schema, run alembic migrations and then run models.py.
+In order to run this, you need to have a database with a "tsu" schema, run alembic migrations and then run models.py. 
+
+Some commands to get you up and running quickly (assuming you have pdm and python installed):
+- `pdm run alembic upgrade head` to apply db migrations
+- `pdm run alembic revision --autogenerate -m "description what changed int he models"` to generate a alembic migration after you made changes to a model
+- `pdm run python src/tsu_analyzer/db/Saver.py` to run the script
 
 ## Thanks!
 
