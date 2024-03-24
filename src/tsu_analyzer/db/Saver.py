@@ -181,70 +181,67 @@ class Saver:
         return lap_result
 
     @staticmethod
-    def get_or_create_cp_result(engine, cp_result_dict):
-
-        with Session(engine) as session:
-            session.add(cp_result_dict["lap_result"])
-
-            try:
-                cp_result = session.scalars(
-                    select(CheckpointResult).where(
-                        and_(
-                            CheckpointResult.lap_result_id
-                            == cp_result_dict["lap_result"].id,
-                            CheckpointResult.time == cp_result_dict["time"],
-                            CheckpointResult.is_sector == cp_result_dict["is_sector"],
-                            CheckpointResult.number == cp_result_dict["number"],
-                        )
-                    )
-                ).first()
-
-                if not cp_result:
-                    cp_result = CheckpointResult(
-                        lap_result_id=cp_result_dict["lap_result"].id,
-                        time=cp_result_dict["time"],
-                        is_sector=cp_result_dict["is_sector"],
-                        number=cp_result_dict["number"],
-                    )
-                    session.add(cp_result)
-                    session.commit()
-            except Exception as e:
-                print("Error:", e)
-                session.rollback()
-
-        return cp_result
+    def delete_existing_cp_results(session, lap_result_id):
+        try:
+            session.query(CheckpointResult).filter(
+                CheckpointResult.lap_result_id == lap_result_id
+            ).delete()
+            session.commit()
+        except Exception as e:
+            print(
+                f"Error deleting existing Checkpoint Results for lap_result_id: {lap_result_id}",
+                e,
+            )
+            session.rollback()
 
     @staticmethod
-    def get_or_create_sector_result(engine, sector_result_dict):
+    def insert_new_cp_results(session, lap_result_id, cp_results):
+        try:
+            mappings = [
+                {
+                    "lap_result_id": lap_result_id,
+                    "time": cp_result["time"],
+                    "is_sector": cp_result["is_sector"],
+                    "number": cp_result["number"],
+                }
+                for cp_result in cp_results
+            ]
+            session.bulk_insert_mappings(CheckpointResult, mappings)
+            session.commit()
+        except Exception as e:
+            print("Error inserting new checkpoint times:", e)
+            session.rollback()
 
-        with Session(engine) as session:
-            session.add(sector_result_dict["lap_result"])
+    @staticmethod
+    def delete_existing_sector_results(session, lap_result_id):
+        try:
+            session.query(SectorResult).filter(
+                SectorResult.lap_result_id == lap_result_id
+            ).delete()
+            session.commit()
+        except Exception as e:
+            print(
+                f"Error deleting existing Sector Results for lap_result_id: {lap_result_id}",
+                e,
+            )
+            session.rollback()
 
-            try:
-                sector_result = session.scalars(
-                    select(SectorResult).where(
-                        and_(
-                            SectorResult.lap_result_id
-                            == sector_result_dict["lap_result"].id,
-                            SectorResult.time == sector_result_dict["time"],
-                            SectorResult.number == sector_result_dict["number"],
-                        )
-                    )
-                ).first()
-
-                if not sector_result:
-                    sector_result = SectorResult(
-                        lap_result_id=sector_result_dict["lap_result"].id,
-                        time=sector_result_dict["time"],
-                        number=sector_result_dict["number"],
-                    )
-                    session.add(sector_result)
-                    session.commit()
-            except Exception as e:
-                print("Error:", e)
-                session.rollback()
-
-        return sector_result
+    @staticmethod
+    def insert_new_sector_results(session, lap_result_id, sector_results):
+        try:
+            mappings = [
+                {
+                    "lap_result_id": lap_result_id,
+                    "time": sector_result["time"],
+                    "number": sector_result["number"],
+                }
+                for sector_result in sector_results
+            ]
+            session.bulk_insert_mappings(SectorResult, mappings)
+            session.commit()
+        except Exception as e:
+            print("Error inserting new sector times:", e)
+            session.rollback()
 
     def run(self):
         engine = self.get_engine()
@@ -321,46 +318,65 @@ class Saver:
                     lap_result = self.get_or_create_lap_result(engine, lap_result_dict)
 
                     ### Checkpoint Result ###
-                    cp_result_dict = dict()
-                    cp_result_dict["lap_result"] = lap_result
 
-                    for k, cp_time in enumerate(cp_times_this_lap):
+                    with Session(engine) as session:
+                        self.delete_existing_cp_results(session, lap_result.id)
 
-                        if k + 1 == len(cp_times_this_lap):
-                            cp_result_dict["time"] = (
-                                first_cp_time_next_lap - cp_time
-                            ) / 10000.0
-                        else:
-                            cp_result_dict["time"] = (
-                                cp_times_this_lap[k + 1] - cp_time
-                            ) / 10000.0
+                        cp_results = []
 
-                        cp_result_dict["is_sector"] = k in indices_sectors
-                        cp_result_dict["number"] = k + 1
+                        for k, cp_time in enumerate(cp_times_this_lap):
+                            cp_result = {}
 
-                        self.get_or_create_cp_result(engine, cp_result_dict)
+                            # calculate time difference between next sector time and this one
+                            # this is relevant for the last checkpoint time before start and finish line
+                            if k + 1 == len(cp_times_this_lap):
+                                cp_result["time"] = (
+                                    first_cp_time_next_lap - cp_time
+                                ) / 10000.0
+                            else:
+                                # this is valid for all others
+                                cp_result["time"] = (
+                                    cp_times_this_lap[k + 1] - cp_time
+                                ) / 10000.0
 
-                    sector_result_dict = dict()
-                    sector_result_dict["lap_result"] = lap_result
+                            # the very first cp is flagged as a
+                            cp_result["is_sector"] = (
+                                k + 1 in indices_sectors or k + 1 == number_checkpoints
+                            )
+                            cp_result["number"] = k + 1
 
-                    sector_times_this_lap = [
-                        cp_times_this_lap[ind] for ind in indices_sectors
-                    ]
+                            cp_results.append(cp_result)
 
-                    for l, sector_time in enumerate(sector_times_this_lap):
+                        self.insert_new_cp_results(session, lap_result.id, cp_results)
 
-                        if l + 1 == len(sector_times_this_lap):
-                            sector_result_dict["time"] = (
-                                first_cp_time_next_lap - sector_time
-                            ) / 10000.0
-                        else:
-                            sector_result_dict["time"] = (
-                                sector_times_this_lap[l + 1] - sector_time
-                            ) / 10000.0
+                        ### SECTOR RESULTS ###
+                        self.delete_existing_sector_results(session, lap_result.id)
 
-                        sector_result_dict["number"] = l + 1
+                        sector_times_this_lap = [
+                            cp_times_this_lap[ind] for ind in indices_sectors
+                        ]
 
-                        self.get_or_create_sector_result(engine, sector_result_dict)
+                        sector_results = []
+
+                        for l, sector_time in enumerate(sector_times_this_lap):
+                            sector_result = dict()
+
+                            if l + 1 == len(sector_times_this_lap):
+                                sector_result["time"] = (
+                                    first_cp_time_next_lap - sector_time
+                                ) / 10000.0
+                            else:
+                                sector_result["time"] = (
+                                    sector_times_this_lap[l + 1] - sector_time
+                                ) / 10000.0
+
+                            sector_result["number"] = l + 1
+
+                            sector_results.append(sector_result)
+
+                        self.insert_new_sector_results(
+                            session, lap_result.id, sector_results
+                        )
 
 
 if __name__ == "__main__":
