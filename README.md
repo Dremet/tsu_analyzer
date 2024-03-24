@@ -36,4 +36,4 @@ In order to run this, you need to have a database with a "tsu" schema, run alemb
 Some commands to get you up and running quickly (assuming you have pdm and python installed):
 - `pdm run alembic upgrade head` to apply db migrations
 - `pdm run alembic revision --autogenerate -m "description what changed int he models"` to generate a alembic migration after you made changes to a model
-- `pdm run python src/tsu_analyzer/db/Saver.py` to run the script
+- `pdm run python run.py examples/20240323_234957_Interlagosv6.json` to run the script

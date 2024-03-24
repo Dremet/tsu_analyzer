@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import sys
 
 sys.path.append(".")
-from models import *
+from src.tsu_analyzer.db.models import *
 
 
 class Saver:
