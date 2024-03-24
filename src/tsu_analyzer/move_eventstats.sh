@@ -10,6 +10,7 @@ DEST_DIR=~/eventstats
 mkdir -p "$DEST_DIR"
 
 # Attempt to extract the track name from the JSON file
+# If not successful, file will still be renamed and moved without track name cause errors will be ignored with >2
 TRACK_NAME=$(jq -r '.level.name // empty' "$EVENT_STATS_FILE" 2>/dev/null | tr -d ' ')
 
 # Get the current timestamp in the desired format
