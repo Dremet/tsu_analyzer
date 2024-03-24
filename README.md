@@ -10,6 +10,10 @@ It is made to provide the data for the TSU community website [tsura.org](https:/
 
 When you host a dedicated server ([more information on dedicated servers in TSU](https://www.turbosliders.com/help/dedicated-servers)) you can activate that the server should save eventstats.json files. You can see some examples [here](/examples/).
 
+When the next event ends, the file will be overwritten though which is why I placed two files into the `config/Scripts/` directory:
+1. eventend.src with `/cmd move_eventstats.sh` as a one line. When automaticScripts option is activated in the server, this will run automatically when an event ends.
+2. `move_eventstats.sh` file that moves files into `~/eventstats` folder and renames them. You need to make sure that the folder exists and that you have `jq` installed cause the script also extracts the track name from the file content, see [move_eventstats.sh](/src/tsu_analyzer/move_eventstats.sh).
+
 ## Data
 
 If you want to know which data is saved, have a look at the [models.py](/src/tsu_analyzer/db/models.py) file. Every single checkpoint time can be saved.
