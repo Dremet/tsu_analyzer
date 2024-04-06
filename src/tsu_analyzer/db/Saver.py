@@ -305,12 +305,12 @@ class Saver:
                 if len(lap_checkpoint_times["times"]) == 1:
                     continue
 
-                lap_result_dict["cflags"] = lap_checkpoint_times["cFlags"]
-                cp_times_this_lap = lap_checkpoint_times["times"]
-                first_cp_time_next_lap = all_checkpoint_times[j + 1]["times"][0]
-
                 # double check if driver passed all checkpoints
-                if len(cp_times_this_lap) == number_checkpoints:
+                if len(lap_checkpoint_times["times"]) == number_checkpoints:
+                    lap_result_dict["cflags"] = lap_checkpoint_times["cFlags"]
+                    cp_times_this_lap = lap_checkpoint_times["times"]
+                    first_cp_time_next_lap = all_checkpoint_times[j + 1]["times"][0]
+
                     lap_result_dict["lap_time"] = (
                         first_cp_time_next_lap - cp_times_this_lap[0]
                     ) / 10000.0
