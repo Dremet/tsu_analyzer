@@ -48,3 +48,8 @@ echo "Session Stats Datei erfolgreich verschoben nach: $DEST_DIR/$SESSION_FILE_N
 # Now save to database (only for hotlapping)
 # cd ~/tsu_analyzer
 # /home/steam/.local/bin/pdm run python run.py "$DEST_DIR/$EVENT_FILE_NAME" &
+
+
+# only on event server push stat files to whiplash ftp
+# cd /home/events/stat_files
+# ./upload.sh
