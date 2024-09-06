@@ -265,6 +265,7 @@ class Saver:
 
         ### TRACK ###
         track = self.get_or_create_track(engine, self.data["level"])
+        print(track)
 
         ### EVENT ###
         event_dict = dict()
@@ -280,6 +281,10 @@ class Saver:
         number_checkpoints = len(
             self.data["raceStats"]["checkpoints"]["checkpointToSector"]
         )
+
+        if self.data["level"]["levelType"] == "SpecialStage":
+            number_checkpoints -= 1
+
         indices_sectors = self.data["raceStats"]["checkpoints"]["sectorToCheckpoint"]
 
         player_stats = self.data["raceStats"]["playerStats"]
@@ -293,6 +298,8 @@ class Saver:
             )
 
             event_result = self.get_or_create_event_result(engine, event_result_dict)
+            print(event_result_dict)
+            print(event_result)
 
             ### LAP RESULT ###
             lap_result_dict = dict()
@@ -301,6 +308,11 @@ class Saver:
             all_checkpoint_times = driver_player_stats["checkpointTimes"]
 
             for j, lap_checkpoint_times in enumerate(all_checkpoint_times):
+                print(
+                    lap_checkpoint_times,
+                    len(lap_checkpoint_times["times"]),
+                    number_checkpoints,
+                )
                 # last lap_checkpoint_times entry consists of one checkpoint time, namely finish line time
                 if len(lap_checkpoint_times["times"]) == 1:
                     continue
@@ -315,7 +327,9 @@ class Saver:
                         first_cp_time_next_lap - cp_times_this_lap[0]
                     ) / 10000.0
 
+                    print(lap_result_dict)
                     lap_result = self.get_or_create_lap_result(engine, lap_result_dict)
+                    print(lap_result)
 
                     ### Checkpoint Result ###
 
