@@ -51,6 +51,16 @@ class Driver(Base):
     flag: Mapped[str] = mapped_column()
 
 
+class Elo(Base):
+    __tablename__ = "elo"
+
+    driver_id: Mapped[int] = mapped_column(ForeignKey("tsu.drivers.id"))
+    driver: Mapped["Driver"] = relationship("Driver")
+
+    value: Mapped[float] = mapped_column(Float(asdecimal=False))
+    number_races: Mapped[int] = mapped_column()
+    
+
 class Car(Base):
     __tablename__ = "cars"
 
