@@ -1,15 +1,8 @@
-from typing import Optional, List
-from datetime import datetime
-from sqlalchemy import ForeignKey, MetaData, UniqueConstraint, Table, Column
-from sqlalchemy.orm import DeclarativeBase
-from sqlalchemy.orm import Mapped, mapped_column, relationship
-from sqlalchemy.types import BigInteger
-
-
 from typing import List
-from datetime import datetime
+from datetime import datetime, timezone
 from sqlalchemy import ForeignKey, MetaData, Table, Column, BigInteger, Float, Boolean
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
+from sqlalchemy.types import BigInteger
 
 
 ### BASE MODEL ###
@@ -27,10 +20,10 @@ class Base(DeclarativeBase):
 
     id: Mapped[int] = mapped_column(primary_key=True)
     created_at: Mapped[datetime] = mapped_column(
-        default=datetime.utcnow, nullable=False
+        default=datetime.now(timezone.utc), nullable=False
     )
     modified_at: Mapped[datetime] = mapped_column(
-        default=datetime.utcnow, nullable=False
+        default=datetime.now(timezone.utc), nullable=False
     )
 
 
@@ -58,7 +51,13 @@ class Elo(Base):
     driver: Mapped["Driver"] = relationship("Driver")
 
     value: Mapped[float] = mapped_column(Float(asdecimal=False))
+    delta: Mapped[float] = mapped_column(Float(asdecimal=False))
+    
     number_races: Mapped[int] = mapped_column()
+
+    last_track_name: Mapped[str] = mapped_column()
+    last_car_name: Mapped[str] = mapped_column()
+    last_timestamp: Mapped[datetime] = mapped_column(nullable=False)
     
 
 class Car(Base):
@@ -108,7 +107,7 @@ class EventResult(Base):
         "LapResult", back_populates="event_result"
     )
 
-    driven_at: Mapped[datetime] = mapped_column(default=datetime.utcnow, nullable=False)
+    driven_at: Mapped[datetime] = mapped_column(default=datetime.now(timezone.utc), nullable=False)
 
 
 class LapResult(Base):

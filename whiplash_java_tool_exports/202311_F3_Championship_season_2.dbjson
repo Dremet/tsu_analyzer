@@ -11634,7 +11634,7 @@
     {
       "eventIndex": 1,
       "eventName": "Event 1",
-      "datePlayed": "",
+      "datePlayed": "2023-10-28T20:28:10",
       "eventType": "Normal race",
       "isHidden": false,
       "eventInformation": "",

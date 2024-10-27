@@ -42,25 +42,21 @@ def get_or_create_elo(engine, driver_id):
     with Session(engine) as session:
         try:
             elo = session.scalars(
-                select(Elo).where(Elo.driver_id == driver_id)
+                select(Elo).where(Elo.driver_id == driver_id).order_by(desc(Elo.last_timestamp)
+                )
             ).first()
 
-            if not elo:
-                elo = Elo(
-                    driver_id=driver_id,
-                    value=1000.0,
-                    number_races=0
-                )
-                session.add(elo)
-                session.commit()
-            
-            value = elo.value
-            number_races = elo.number_races
+            if elo:
+                value = elo.value
+                number_races = elo.number_races
+            else:
+                value = 1000.0
+                number_races = 0
         except Exception as e:
             print("Error:", e)
             session.rollback()
-
-    return elo, value, number_races
+    
+    return value, number_races
 
 
 
@@ -77,23 +73,27 @@ def get_drivers_dict(data):
         
         driver, driver_id = get_or_create_driver(engine, player)
         
-        elo_object, elo_value, elo_number_races = get_or_create_elo(engine, driver_id)
+        elo_value, elo_number_races = get_or_create_elo(engine, driver_id)
         
         drivers_by_id[player_id] = {
             "index":i,
             "name":player_name,
-            "elo_db_object":elo_object,
+            "driver_db_object":driver,
             "elo_value_before":elo_value,
             "elo_number_races_before":elo_number_races,
             "elo_value_new":elo_value,
-            "elo_number_races_new":elo_number_races
+            "elo_number_races_new":elo_number_races,
+            "last_car":row.get("vehicle").get("name")
         }
-    
+
     return drivers_by_id
         
     
    
 def get_event_results(data, drivers_by_id):
+
+    track_name = data["level"]["name"]
+    race_timestamp = data["utcStartTime"]
 
     race_results = data.get('raceStats', []).get("raceRanking").get("entries")
     
@@ -108,7 +108,7 @@ def get_event_results(data, drivers_by_id):
         steam_id = drivers_steam_id_by_index[entry["playerIndex"]]
         event_data[steam_id] = pos
 
-    return event_data
+    return event_data,track_name,race_timestamp
 
 
 
@@ -126,7 +126,7 @@ def calc_elo_changes(drivers_by_id, event_data):
         
         print(drivers_by_id[driver_id]["name"], " with elo ", drivers_by_id[driver_id]["elo_value_before"])
 
-        expected_score_nominator = 0
+        expected_score_nominator = 0.
         opponents = 0
 
         for opponent_id, opponent_result in event_data.items():
@@ -140,9 +140,9 @@ def calc_elo_changes(drivers_by_id, event_data):
         
         overall_players = opponents + 1
             
-        expected_score = expected_score_nominator / (overall_players * opponents / 2)
+        expected_score = expected_score_nominator / (overall_players * opponents / 2.)
 
-        scoring = (overall_players-driver_result) / (overall_players * opponents / 2)
+        scoring = (overall_players-driver_result) / (overall_players * opponents / 2.)
 
         elo_change = K_FACTOR * opponents * (scoring - expected_score)
         print(f"Overall elo change: {elo_change} (had {opponents} opponents)")
@@ -154,23 +154,29 @@ def calc_elo_changes(drivers_by_id, event_data):
         drivers_by_id[driver_id]["elo_value_new"] = new_elo
         drivers_by_id[driver_id]["elo_number_races_new"] = drivers_by_id[driver_id]["elo_number_races_before"] + 1
     
-    # after calculations for all drivers for that specific events are done, we need to update the before values for the next event
-    # to make sure the updated elo values are used for the next event
-    for driver_id in drivers_by_id.keys():
-        drivers_by_id[driver_id]["elo_value_before"] = drivers_by_id[driver_id]["elo_value_new"]
-        drivers_by_id[driver_id]["elo_number_races_before"] = drivers_by_id[driver_id]["elo_number_races_new"]
     
     return drivers_by_id
 
 
-def apply_elo_changes(drivers_by_id):
+def apply_elo_changes(drivers_by_id,track_name,race_timestamp):
     with Session(engine) as session:
         try:
             for driver_dict in drivers_by_id.values():
-                elo_instance = session.get(Elo, driver_dict["elo_db_object"].id)
-                if elo_instance:
-                    elo_instance.value = driver_dict["elo_value_new"]
-                    elo_instance.number_races = driver_dict["elo_number_races_new"]
+                elo_change = driver_dict["elo_value_new"]-driver_dict["elo_value_before"]
+
+                if elo_change == 0:
+                    continue
+                
+                new_elo_entry = Elo(
+                    driver_id=driver_dict["driver_db_object"].id,
+                    value=driver_dict["elo_value_new"],
+                    delta=elo_change,
+                    number_races=driver_dict["elo_number_races_new"],
+                    last_track_name=track_name,
+                    last_car_name=driver_dict["last_car"],
+                    last_timestamp=race_timestamp
+                )
+                session.add(new_elo_entry)
             
             session.commit()
         except Exception as e:
@@ -201,10 +207,10 @@ if __name__ == "__main__":
     drivers_by_id = get_drivers_dict(data)
 
     # get events dataframe
-    event_data = get_event_results(data, drivers_by_id)
+    event_data,track_name,race_timestamp = get_event_results(data, drivers_by_id)
 
     # calc elo changes for all events and all drivers
     drivers_by_id = calc_elo_changes(drivers_by_id, event_data)
 
     # apply elo changes for all drivers
-    apply_elo_changes(drivers_by_id)
+    apply_elo_changes(drivers_by_id,track_name,race_timestamp)
