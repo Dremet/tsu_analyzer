@@ -139,6 +139,9 @@ def calc_elo_changes(drivers_by_id, event_data):
             expected_score_nominator += single_expected_score
             opponents += 1
         
+        if opponents == 0:
+            break
+
         overall_players = opponents + 1
             
         expected_score = expected_score_nominator / (overall_players * opponents / 2.)
