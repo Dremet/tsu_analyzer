@@ -164,9 +164,6 @@ def apply_elo_changes(drivers_by_id,track_name,race_timestamp):
         try:
             for driver_dict in drivers_by_id.values():
                 elo_change = driver_dict["elo_value_new"]-driver_dict["elo_value_before"]
-
-                if elo_change == 0:
-                    continue
                 
                 new_elo_entry = EloHeat(
                     driver_id=driver_dict["driver_db_object"].id,
@@ -202,7 +199,7 @@ if __name__ == "__main__":
     for file_name in os.listdir(base_dir):
         if file_name.endswith("_event.json"):
             file_path = os.path.join(base_dir, file_name)
-
+            print(file_path)
             # read file
             with open(file_path, 'r', encoding='utf-8') as file:
                 data = json.load(file)
@@ -220,5 +217,5 @@ if __name__ == "__main__":
             apply_elo_changes(drivers_by_id,track_name,race_timestamp)
 
             # Move the file to the "processed" subdirectory
-            shutil.move(file_path, os.path.join(processed_dir, file_name))
+            #shutil.move(file_path, os.path.join(processed_dir, file_name))
             print(f"Moved {file_name} to {processed_dir}")
