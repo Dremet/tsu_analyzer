@@ -59,6 +59,21 @@ class Elo(Base):
     last_car_name: Mapped[str] = mapped_column()
     last_timestamp: Mapped[datetime] = mapped_column(nullable=False)
     
+class EloHeat(Base):
+    __tablename__ = "elo_heat"
+
+    driver_id: Mapped[int] = mapped_column(ForeignKey("tsu.drivers.id"))
+    driver: Mapped["Driver"] = relationship("Driver")
+
+    value: Mapped[float] = mapped_column(Float(asdecimal=False))
+    delta: Mapped[float] = mapped_column(Float(asdecimal=False))
+    
+    number_races: Mapped[int] = mapped_column()
+
+    last_track_name: Mapped[str] = mapped_column()
+    last_car_name: Mapped[str] = mapped_column()
+    last_timestamp: Mapped[datetime] = mapped_column(nullable=False)
+
 
 class Car(Base):
     __tablename__ = "cars"
