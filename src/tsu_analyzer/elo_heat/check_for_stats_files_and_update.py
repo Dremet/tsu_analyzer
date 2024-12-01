@@ -203,22 +203,32 @@ if __name__ == "__main__":
         if file_name.endswith("_event.json"):
             file_path = os.path.join(base_dir, file_name)
             print(file_path)
-            # read file
-            with open(file_path, 'r', encoding='utf-8') as file:
-                data = json.load(file)
 
-            # get drivers dict
-            drivers_by_id = get_drivers_dict(data)
+            try:
+                # read file
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    data = json.load(file)
 
-            # get events dataframe
-            event_data,track_name,race_timestamp = get_event_results(data, drivers_by_id)
+                # get drivers dict
+                drivers_by_id = get_drivers_dict(data)
 
-            # calc elo changes for all events and all drivers
-            drivers_by_id = calc_elo_changes(drivers_by_id, event_data)
+                # get events dataframe
+                event_data,track_name,race_timestamp = get_event_results(data, drivers_by_id)
 
-            # apply elo changes for all drivers
-            apply_elo_changes(drivers_by_id,track_name,race_timestamp)
+                # calc elo changes for all events and all drivers
+                drivers_by_id = calc_elo_changes(drivers_by_id, event_data)
 
-            # Move the file to the "processed" subdirectory
-            #shutil.move(file_path, os.path.join(processed_dir, file_name))
-            print(f"Moved {file_name} to {processed_dir}")
+                # apply elo changes for all drivers
+                apply_elo_changes(drivers_by_id,track_name,race_timestamp)
+
+                # Move the file to the "processed" subdirectory
+                shutil.move(file_path, os.path.join(processed_dir, file_name))
+                print(f"Moved {file_name} to {processed_dir}")
+            except Exception as e:
+                print("Error! ", e)
+                print("Trying to move the file anyways")
+                try:
+                    shutil.move(file_path, os.path.join(processed_dir, file_name))
+                    print(f"Moved {file_name} to {processed_dir}")
+                except Exception as ee:
+                    print("Error moving file! ", e)
