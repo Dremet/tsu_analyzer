@@ -1,0 +1,2651 @@
+current_time: 0.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.0 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 194.43355465496 z: 343.99939015968
+current_time: 0.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.0 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 194.43355465496 z: 343.99939015968
+current_time: 0.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.0 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 194.43355465496 z: 343.99939015968
+current_time: 0.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.0 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 194.43355465496 z: 343.99939015968
+current_time: 0.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.0 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 194.43355465496 z: 343.99939015968
+current_time: 0.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.0 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 194.43355465496 z: 343.99939015968
+current_time: 0.3333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.061431476259805995 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 191.64005583284344 z: 345.5227796063126
+current_time: 0.3333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.06041273983857716 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 191.68638125371913 z: 345.4975167865419
+current_time: 0.6666666666666666 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.12286295251961199 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 188.84655701072688 z: 347.04616905294523
+current_time: 0.6666666666666666 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.12082547967715432 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 188.93920785247826 z: 346.99564341340385
+current_time: 1.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.184294428779418 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 186.05305818861032 z: 348.5695584995779
+current_time: 1.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.1812382195157315 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 186.19203445123736 z: 348.49377004026576
+current_time: 1.3333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.24572590503922398 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 183.25955936649376 z: 350.09294794621053
+current_time: 1.3333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.24165095935430864 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 183.4448610499965 z: 349.99189666712766
+current_time: 1.6666666666666667 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.30715738129903003 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 180.4660605443772 z: 351.61633739284315
+current_time: 1.6666666666666667 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.30206369919288584 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 180.69768764875562 z: 351.49002329398957
+current_time: 2.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.368588857558836 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 177.67256172226064 z: 353.13972683947577
+current_time: 2.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.362476439031463 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 177.95051424751475 z: 352.9881499208515
+current_time: 2.3333333333333335 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.430020333818642 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 174.87906290014408 z: 354.66311628610845
+current_time: 2.3333333333333335 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.4228891788700401 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 175.20334084627387 z: 354.48627654771343
+current_time: 2.6666666666666665 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.49145181007844796 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 172.08556407802752 z: 356.18650573274107
+current_time: 2.6666666666666665 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.4833019187086173 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 172.45616744503297 z: 355.98440317457533
+current_time: 3.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.552883286338254 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 169.29206525591096 z: 357.7098951793737
+current_time: 3.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.5437146585471945 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 169.7089940437921 z: 357.4825298014373
+current_time: 3.3333333333333335 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.6143147625980601 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 166.4985664337944 z: 359.2332846260063
+current_time: 3.3333333333333335 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.6041273983857717 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 166.96182064255123 z: 358.9806564282992
+current_time: 3.6666666666666665 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.675746238857866 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 163.70506761167783 z: 360.75667407263893
+current_time: 3.6666666666666665 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.6645401382243488 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 164.21464724131036 z: 360.4787830551611
+current_time: 4.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.737177715117672 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 160.91156878956127 z: 362.2800635192716
+current_time: 4.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.724952878062926 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 161.4674738400695 z: 361.976909682023
+current_time: 4.333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.798609191377478 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 158.11806996744474 z: 363.8034529659042
+current_time: 4.333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.785365617901503 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 158.7203004388286 z: 363.47503630888497
+current_time: 4.666666666666667 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.860040667637284 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 155.32457114532815 z: 365.32684241253685
+current_time: 4.666666666666667 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.8457783577400803 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 155.97312703758772 z: 364.97316293574687
+current_time: 5.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.92147214389709 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 152.53107232321162 z: 366.85023185916947
+current_time: 5.0 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.9061910975786575 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 153.22595363634684 z: 366.4712895626088
+current_time: 5.333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.4261 fraction: 0.9829036201568959 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 149.73757350109506 z: 368.3736213058021
+current_time: 5.333333333333333 current_cp_idx: 0 segment_start_time: 0 segment_end_time: 5.5176 fraction: 0.9666038374172345 cp1: 1 cp2: 2 pos1: x    194.433555
+z    343.999390
+Name: 1, dtype: float64 pos2: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 x: 150.47878023510597 z: 367.96941618947073
+current_time: 5.666666666666667 current_cp_idx: 1 segment_start_time: 5.4261 segment_end_time: 6.8869 fraction: 0.16468145308506782 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 141.7001742726833 z: 371.9707096050973
+current_time: 5.666666666666667 current_cp_idx: 1 segment_start_time: 5.5176 segment_end_time: 6.9274 fraction: 0.10573603820872972 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 144.29877810797393 z: 370.83493260764044
+current_time: 6.0 current_cp_idx: 1 segment_start_time: 5.4261 segment_end_time: 6.8869 fraction: 0.3928669222343922 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 131.64063636743643 z: 376.36745204142443
+current_time: 6.0 current_cp_idx: 1 segment_start_time: 5.5176 segment_end_time: 6.9274 fraction: 0.3421761952049938 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 133.8753329583182 z: 375.3907287141709
+current_time: 6.333333333333333 current_cp_idx: 1 segment_start_time: 5.4261 segment_end_time: 6.8869 fraction: 0.6210523913837166 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 121.58109846218953 z: 380.7641944777515
+current_time: 6.333333333333333 current_cp_idx: 1 segment_start_time: 5.5176 segment_end_time: 6.9274 fraction: 0.5786163522012578 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 123.45188780866246 z: 379.94652482070137
+current_time: 6.666666666666667 current_cp_idx: 1 segment_start_time: 5.4261 segment_end_time: 6.8869 fraction: 0.8492378605330416 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 111.5215605569426 z: 385.16093691407866
+current_time: 6.666666666666667 current_cp_idx: 1 segment_start_time: 5.5176 segment_end_time: 6.9274 fraction: 0.8150565091975226 cp1: 2 cp2: 3 pos1: x    148.960143
+z    368.797581
+Name: 2, dtype: float64 pos2: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 x: 113.0284426590067 z: 384.5023209272319
+current_time: 7.0 current_cp_idx: 2 segment_start_time: 6.8869 segment_end_time: 8.1016 fraction: 0.09310940973079791 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 99.57584104897958 z: 389.53114285504194
+current_time: 7.0 current_cp_idx: 2 segment_start_time: 6.9274 segment_end_time: 8.1116 fraction: 0.06130721161965923 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 101.38588390720187 z: 389.0306663923358
+current_time: 7.333333333333333 current_cp_idx: 2 segment_start_time: 6.8869 segment_end_time: 8.1016 fraction: 0.3675255893087457 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 83.95726511627578 z: 393.84967575596124
+current_time: 7.333333333333333 current_cp_idx: 2 segment_start_time: 6.9274 segment_end_time: 8.1116 fraction: 0.34279119518099443 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 85.36503929864308 z: 393.46042649598945
+current_time: 7.666666666666667 current_cp_idx: 2 segment_start_time: 6.8869 segment_end_time: 8.1016 fraction: 0.6419417688866942 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 68.33868918357192 z: 398.1682086568805
+current_time: 7.666666666666667 current_cp_idx: 2 segment_start_time: 6.9274 segment_end_time: 8.1116 fraction: 0.6242751787423303 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 69.34419469008425 z: 397.89018659964313
+current_time: 8.0 current_cp_idx: 2 segment_start_time: 6.8869 segment_end_time: 8.1016 fraction: 0.9163579484646419 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 52.7201132508681 z: 402.4867415577998
+current_time: 8.0 current_cp_idx: 2 segment_start_time: 6.9274 segment_end_time: 8.1116 fraction: 0.9057591623036655 cp1: 3 cp2: 4 pos1: x    104.875224
+z    388.065865
+Name: 3, dtype: float64 pos2: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 x: 53.323350081525454 z: 402.31994670329675
+current_time: 8.333333333333334 current_cp_idx: 3 segment_start_time: 8.1016 segment_end_time: 9.5071 fraction: 0.1648760820585802 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: 37.80436469325272 z: 405.09211875384204
+current_time: 8.333333333333334 current_cp_idx: 3 segment_start_time: 8.1116 segment_end_time: 9.4842 fraction: 0.16154257127592497 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: 38.00968550342087 z: 405.0660556043522
+current_time: 8.666666666666666 current_cp_idx: 3 segment_start_time: 8.1016 segment_end_time: 9.5071 fraction: 0.40203960630854974 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: 23.196760243702673 z: 406.94638855798763
+current_time: 8.666666666666666 current_cp_idx: 3 segment_start_time: 8.1116 segment_end_time: 9.4842 fraction: 0.40439069405993494 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: 23.051949780090997 z: 406.96477060488155
+current_time: 9.0 current_cp_idx: 3 segment_start_time: 8.1016 segment_end_time: 9.5071 fraction: 0.6392031305585205 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: 8.589155794152546 z: 408.8006583621333
+current_time: 9.0 current_cp_idx: 3 segment_start_time: 8.1116 segment_end_time: 9.4842 fraction: 0.6472388168439462 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: 8.094214056761032 z: 408.863485605411
+current_time: 9.333333333333334 current_cp_idx: 3 segment_start_time: 8.1016 segment_end_time: 9.5071 fraction: 0.8763666548084913 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: -6.0184486553975844 z: 410.6549281662789
+current_time: 9.333333333333334 current_cp_idx: 3 segment_start_time: 8.1116 segment_end_time: 9.4842 fraction: 0.8900869396279575 cp1: 4 cp2: 5 pos1: x     47.959571
+z    403.803030
+Name: 4, dtype: float64 pos2: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 x: -6.863521666568921 z: 410.7622006059404
+current_time: 9.666666666666666 current_cp_idx: 4 segment_start_time: 9.5071 segment_end_time: 10.8751 fraction: 0.11664230019493173 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -18.894592100995755 z: 411.69408434628235
+current_time: 9.666666666666666 current_cp_idx: 4 segment_start_time: 9.4842 segment_end_time: 10.8093 fraction: 0.13770029934847666 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -19.84442187188293 z: 411.7071776954225
+current_time: 10.0 current_cp_idx: 4 segment_start_time: 9.5071 segment_end_time: 10.8751 fraction: 0.36030701754385996 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -29.885190066418286 z: 411.84558911148457
+current_time: 10.0 current_cp_idx: 4 segment_start_time: 9.4842 segment_end_time: 10.8093 fraction: 0.3892536412346239 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -31.190839513342453 z: 411.8635874145355
+current_time: 10.333333333333334 current_cp_idx: 4 segment_start_time: 9.5071 segment_end_time: 10.8751 fraction: 0.6039717348927882 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -40.87578803184081 z: 411.9970938766868
+current_time: 10.333333333333334 current_cp_idx: 4 segment_start_time: 9.4842 segment_end_time: 10.8093 fraction: 0.6408069831207711 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -42.53725715480198 z: 412.01999713364853
+current_time: 10.666666666666666 current_cp_idx: 4 segment_start_time: 9.5071 segment_end_time: 10.8751 fraction: 0.8476364522417151 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -51.866385997263286 z: 412.14859864188907
+current_time: 10.666666666666666 current_cp_idx: 4 segment_start_time: 9.4842 segment_end_time: 10.8093 fraction: 0.8923603250069171 cp1: 5 cp2: 6 pos1: x    -13.633393
+z    411.621559
+Name: 5, dtype: float64 pos2: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 x: -53.883674796261445 z: 412.17640685276154
+current_time: 11.0 current_cp_idx: 5 segment_start_time: 10.8751 segment_end_time: 11.8039 fraction: 0.13447459086993985 cp1: 6 cp2: 7 pos1: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 pos2: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 x: -63.68030629715686 z: 412.16944466668883
+current_time: 11.0 current_cp_idx: 5 segment_start_time: 10.8093 segment_end_time: 11.7045 fraction: 0.21302502234137605 cp1: 6 cp2: 7 pos1: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 pos2: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 x: -66.56677657273387 z: 412.12628347265024
+current_time: 11.333333333333334 current_cp_idx: 5 segment_start_time: 10.8751 segment_end_time: 11.8039 fraction: 0.4933606086706867 cp1: 6 cp2: 7 pos1: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 pos2: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 x: -76.86818831507749 z: 411.9722471623355
+current_time: 11.333333333333334 current_cp_idx: 5 segment_start_time: 10.8093 segment_end_time: 11.7045 fraction: 0.585381292820972 cp1: 6 cp2: 7 pos1: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 pos2: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 x: -80.24964611947729 z: 411.92168445338825
+current_time: 11.666666666666666 current_cp_idx: 5 segment_start_time: 10.8751 segment_end_time: 11.8039 fraction: 0.8522466264714316 cp1: 6 cp2: 7 pos1: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 pos2: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 x: -90.05607033299805 z: 411.77504965798227
+current_time: 11.666666666666666 current_cp_idx: 5 segment_start_time: 10.8093 segment_end_time: 11.7045 fraction: 0.9577375633005659 cp1: 6 cp2: 7 pos1: x    -58.738807
+z    412.243335
+Name: 6, dtype: float64 pos2: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 x: -93.93251566622062 z: 411.71708543412626
+current_time: 12.0 current_cp_idx: 6 segment_start_time: 11.8039 segment_end_time: 12.627 fraction: 0.23824565666383118 cp1: 7 cp2: 8 pos1: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 pos2: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 x: -101.38397433112279 z: 410.2878271792271
+current_time: 12.0 current_cp_idx: 6 segment_start_time: 11.7045 segment_end_time: 12.4545 fraction: 0.39400000000000074 cp1: 7 cp2: 8 pos1: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 pos2: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 x: -105.24011879191231 z: 409.3686236209442
+current_time: 12.333333333333334 current_cp_idx: 6 segment_start_time: 11.8039 segment_end_time: 12.627 fraction: 0.643218725954724 cp1: 7 cp2: 8 pos1: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 pos2: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 x: -111.41024149302456 z: 407.89782842652795
+current_time: 12.333333333333334 current_cp_idx: 6 segment_start_time: 11.7045 segment_end_time: 12.4545 fraction: 0.838444444444446 cp1: 7 cp2: 8 pos1: x    -95.485521
+z    411.693863
+Name: 7, dtype: float64 pos2: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 x: -116.2436127931941 z: 406.745679656482
+current_time: 12.666666666666666 current_cp_idx: 7 segment_start_time: 12.627 segment_end_time: 13.366700000000002 fraction: 0.05362534360776715 cp1: 8 cp2: 9 pos1: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 pos2: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 x: -121.07586777022271 z: 404.4375011039888
+current_time: 12.666666666666666 current_cp_idx: 7 segment_start_time: 12.4545 segment_end_time: 13.131499999999999 fraction: 0.31339241752831126 cp1: 8 cp2: 9 pos1: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 pos2: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 x: -125.10851640185325 z: 397.87499889921475
+current_time: 13.0 current_cp_idx: 7 segment_start_time: 12.627 segment_end_time: 13.366700000000002 fraction: 0.5042584831688507 cp1: 8 cp2: 9 pos1: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 pos2: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 x: -128.07153926234656 z: 393.0531446215409
+current_time: 13.0 current_cp_idx: 7 segment_start_time: 12.4545 segment_end_time: 13.131499999999999 fraction: 0.805760709010341 cp1: 8 cp2: 9 pos1: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 pos2: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 x: -132.75208834088428 z: 385.43628621078534
+current_time: 13.333333333333334 current_cp_idx: 7 segment_start_time: 12.627 segment_end_time: 13.366700000000002 fraction: 0.9548916227299343 cp1: 8 cp2: 9 pos1: x   -120.243383
+z    405.792240
+Name: 8, dtype: float64 pos2: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 x: -135.06721075447038 z: 381.66878813909307
+current_time: 13.333333333333334 current_cp_idx: 8 segment_start_time: 13.131499999999999 segment_end_time: 14.294999999999998 fraction: 0.17347084944850452 cp1: 9 cp2: 10 pos1: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 pos2: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 x: -133.5563651052315 z: 375.39360469701586
+current_time: 13.666666666666666 current_cp_idx: 8 segment_start_time: 13.366700000000002 segment_end_time: 14.566900000000002 fraction: 0.249930567127699 cp1: 9 cp2: 10 pos1: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 pos2: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 x: -132.58178621910585 z: 373.1300126128948
+current_time: 13.666666666666666 current_cp_idx: 8 segment_start_time: 13.131499999999999 segment_end_time: 14.294999999999998 fraction: 0.4599627560521422 cp1: 9 cp2: 10 pos1: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 pos2: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 x: -129.90465186724555 z: 366.9120037751594
+current_time: 14.0 current_cp_idx: 8 segment_start_time: 13.366700000000002 segment_end_time: 14.566900000000002 fraction: 0.5276620563239445 cp1: 9 cp2: 10 pos1: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 pos2: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 x: -129.04173593382285 z: 364.9077640938313
+current_time: 14.0 current_cp_idx: 8 segment_start_time: 13.131499999999999 segment_end_time: 14.294999999999998 fraction: 0.7464546626557813 cp1: 9 cp2: 10 pos1: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 pos2: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 x: -126.25293862925956 z: 358.43040285330295
+current_time: 14.333333333333334 current_cp_idx: 8 segment_start_time: 13.366700000000002 segment_end_time: 14.566900000000002 fraction: 0.8053935455201898 cp1: 9 cp2: 10 pos1: x   -135.767477
+z    380.529214
+Name: 9, dtype: float64 pos2: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 x: -125.50168564853982 z: 356.6855155747678
+current_time: 14.333333333333334 current_cp_idx: 9 segment_start_time: 14.294999999999998 segment_end_time: 15.559899999999999 fraction: 0.030305425988881137 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -122.22049012496271 z: 350.686583170241
+current_time: 14.666666666666666 current_cp_idx: 9 segment_start_time: 14.566900000000002 segment_end_time: 15.889500000000002 fraction: 0.07543222944704667 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -121.02822071792907 z: 350.3327766309756
+current_time: 14.666666666666666 current_cp_idx: 9 segment_start_time: 14.294999999999998 segment_end_time: 15.559899999999999 fraction: 0.2938308693704385 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -115.25803544079534 z: 348.6204712813802
+current_time: 15.0 current_cp_idx: 9 segment_start_time: 14.566900000000002 segment_end_time: 15.889500000000002 fraction: 0.32746106154543925 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -114.36951141050176 z: 348.3568013336673
+current_time: 15.0 current_cp_idx: 9 segment_start_time: 14.294999999999998 segment_end_time: 15.559899999999999 fraction: 0.5573563127519973 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -108.29558075662794 z: 346.5543593925195
+current_time: 15.333333333333334 current_cp_idx: 9 segment_start_time: 14.566900000000002 segment_end_time: 15.889500000000002 fraction: 0.5794898936438319 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -107.71080210307446 z: 346.380826036359
+current_time: 15.333333333333334 current_cp_idx: 9 segment_start_time: 14.294999999999998 segment_end_time: 15.559899999999999 fraction: 0.8208817561335561 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -101.33312607246054 z: 344.48824750365867
+current_time: 15.666666666666666 current_cp_idx: 9 segment_start_time: 14.566900000000002 segment_end_time: 15.889500000000002 fraction: 0.8315187257422231 cp1: 10 cp2: 11 pos1: x   -123.021172
+z    350.924186
+Name: 10, dtype: float64 pos2: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 x: -101.05209279564718 z: 344.40485073905063
+current_time: 15.666666666666666 current_cp_idx: 10 segment_start_time: 15.559899999999999 segment_end_time: 16.5244 fraction: 0.11069638845688648 cp1: 11 cp2: 12 pos1: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 pos2: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 x: -94.1337563332239 z: 343.7583889169845
+current_time: 16.0 current_cp_idx: 10 segment_start_time: 15.889500000000002 segment_end_time: 16.921300000000002 fraction: 0.10709439813917253 cp1: 11 cp2: 12 pos1: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 pos2: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 x: -94.21403060108237 z: 343.73644184129597
+current_time: 16.0 current_cp_idx: 10 segment_start_time: 15.559899999999999 segment_end_time: 16.5244 fraction: 0.4562986003110426 cp1: 11 cp2: 12 pos1: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 pos2: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 x: -86.43163553894327 z: 345.8641574595523
+current_time: 16.333333333333332 current_cp_idx: 10 segment_start_time: 15.889500000000002 segment_end_time: 16.921300000000002 fraction: 0.4301544226917331 cp1: 11 cp2: 12 pos1: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 pos2: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 x: -87.01428694331572 z: 345.7048599061406
+current_time: 16.333333333333332 current_cp_idx: 10 segment_start_time: 15.559899999999999 segment_end_time: 16.5244 fraction: 0.8019008121651968 cp1: 11 cp2: 12 pos1: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 pos2: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 x: -78.72951474466268 z: 347.9699260021201
+current_time: 16.666666666666668 current_cp_idx: 10 segment_start_time: 15.889500000000002 segment_end_time: 16.921300000000002 fraction: 0.7532144472442971 cp1: 11 cp2: 12 pos1: x    -96.600746
+z    343.083911
+Name: 11, dtype: float64 pos2: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 x: -79.814543285549 z: 347.67327797098517
+current_time: 16.666666666666668 current_cp_idx: 11 segment_start_time: 16.5244 segment_end_time: 17.2892 fraction: 0.18601813110181445 cp1: 12 cp2: 13 pos1: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 pos2: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 x: -68.43892569706013 z: 350.2886887874891
+current_time: 17.0 current_cp_idx: 11 segment_start_time: 16.921300000000002 segment_end_time: 17.687900000000003 fraction: 0.10266110096529837 cp1: 12 cp2: 13 pos1: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 pos2: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 x: -71.07191466372952 z: 349.7905059914871
+current_time: 17.0 current_cp_idx: 11 segment_start_time: 16.5244 segment_end_time: 17.2892 fraction: 0.6218619246861916 cp1: 12 cp2: 13 pos1: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 pos2: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 x: -54.67197769255968 z: 352.89350663371465
+current_time: 17.333333333333332 current_cp_idx: 11 segment_start_time: 16.921300000000002 segment_end_time: 17.687900000000003 fraction: 0.5374815201321806 cp1: 12 cp2: 13 pos1: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 pos2: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 x: -57.33729186977966 z: 352.3892076465789
+current_time: 17.333333333333332 current_cp_idx: 12 segment_start_time: 17.2892 segment_end_time: 18.211000000000002 fraction: 0.04787734143342492 cp1: 13 cp2: 14 pos1: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 pos2: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 x: -39.411298252834655 z: 355.0596467999832
+current_time: 17.666666666666668 current_cp_idx: 11 segment_start_time: 16.921300000000002 segment_end_time: 17.687900000000003 fraction: 0.9723019392990676 cp1: 12 cp2: 13 pos1: x    -74.314659
+z    349.176953
+Name: 12, dtype: float64 pos2: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 x: -43.60266907582967 z: 354.98790930167064
+current_time: 17.666666666666668 current_cp_idx: 12 segment_start_time: 17.2892 segment_end_time: 18.211000000000002 fraction: 0.4094886815650536 cp1: 13 cp2: 14 pos1: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 pos2: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 x: -14.362390767785332 z: 354.35118911783235
+current_time: 18.0 current_cp_idx: 12 segment_start_time: 17.687900000000003 segment_end_time: 18.631400000000003 fraction: 0.33078961314255145 cp1: 13 cp2: 14 pos1: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 pos2: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 x: -19.813894814525813 z: 354.50537388311585
+current_time: 18.0 current_cp_idx: 12 segment_start_time: 17.2892 segment_end_time: 18.211000000000002 fraction: 0.7711000216966785 cp1: 13 cp2: 14 pos1: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 pos2: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 x: 10.686516717263736 z: 353.64273143568147
+current_time: 18.333333333333332 current_cp_idx: 12 segment_start_time: 17.687900000000003 segment_end_time: 18.631400000000003 fraction: 0.6840840840840798 cp1: 13 cp2: 14 pos1: x    -42.727774
+z    355.153447
+Name: 13, dtype: float64 pos2: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 x: 4.658901072827916 z: 353.81321035221316
+current_time: 18.333333333333332 current_cp_idx: 13 segment_start_time: 18.211000000000002 segment_end_time: 19.948600000000003 fraction: 0.0704036218538962 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 31.245587940203592 z: 351.79219119337915
+current_time: 18.666666666666668 current_cp_idx: 13 segment_start_time: 18.631400000000003 segment_end_time: 20.4323 fraction: 0.019582801191995687 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 27.85064823255204 z: 352.80428668210413
+current_time: 18.666666666666668 current_cp_idx: 13 segment_start_time: 18.211000000000002 segment_end_time: 19.948600000000003 fraction: 0.262239103744628 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 44.060609152475394 z: 347.9717919304341
+current_time: 19.0 current_cp_idx: 13 segment_start_time: 18.631400000000003 segment_end_time: 20.4323 fraction: 0.2046754400577475 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 40.21523308370606 z: 349.11817098478986
+current_time: 19.0 current_cp_idx: 13 segment_start_time: 18.211000000000002 segment_end_time: 19.948600000000003 fraction: 0.4540745856353578 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 56.87563036474707 z: 344.15139266748906
+current_time: 19.333333333333332 current_cp_idx: 13 segment_start_time: 18.631400000000003 segment_end_time: 20.4323 fraction: 0.3897680789234993 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 52.57981793486008 z: 345.4320552874756
+current_time: 19.333333333333332 current_cp_idx: 13 segment_start_time: 18.211000000000002 segment_end_time: 19.948600000000003 fraction: 0.6459100675260876 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 69.69065157701874 z: 340.330993404544
+current_time: 19.666666666666668 current_cp_idx: 13 segment_start_time: 18.631400000000003 segment_end_time: 20.4323 fraction: 0.5748607177892531 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 64.94440278601424 z: 341.74593959016124
+current_time: 19.666666666666668 current_cp_idx: 13 segment_start_time: 18.211000000000002 segment_end_time: 19.948600000000003 fraction: 0.8377455494168194 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 82.50567278929054 z: 336.5105941415989
+current_time: 20.0 current_cp_idx: 13 segment_start_time: 18.631400000000003 segment_end_time: 20.4323 fraction: 0.7599533566550049 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 77.30898763716826 z: 338.0598238928469
+current_time: 20.0 current_cp_idx: 14 segment_start_time: 19.948600000000003 segment_end_time: 21.7006 fraction: 0.02933789954337756 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 93.82734476823441 z: 332.8569321036994
+current_time: 20.333333333333332 current_cp_idx: 13 segment_start_time: 18.631400000000003 segment_end_time: 20.4323 fraction: 0.9450459955207566 cp1: 14 cp2: 15 pos1: x     26.542475
+z    353.194278
+Name: 14, dtype: float64 pos2: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 x: 89.67357248832226 z: 334.37370819553263
+current_time: 20.333333333333332 current_cp_idx: 14 segment_start_time: 19.948600000000003 segment_end_time: 21.7006 fraction: 0.21959665144596452 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 96.95787030393113 z: 330.1178378021393
+current_time: 20.666666666666668 current_cp_idx: 14 segment_start_time: 20.4323 segment_end_time: 22.1352 fraction: 0.13762796797619734 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 95.60915412576063 z: 331.29791467930386
+current_time: 20.666666666666668 current_cp_idx: 14 segment_start_time: 19.948600000000003 segment_end_time: 21.7006 fraction: 0.4098554033485535 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 100.08839583962789 z: 327.3787435005792
+current_time: 21.0 current_cp_idx: 14 segment_start_time: 20.4323 segment_end_time: 22.1352 fraction: 0.33337248223618454 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 98.82994262687087 z: 328.4798436144537
+current_time: 21.0 current_cp_idx: 14 segment_start_time: 19.948600000000003 segment_end_time: 21.7006 fraction: 0.6001141552511404 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 103.2189213753246 z: 324.6396491990191
+current_time: 21.333333333333332 current_cp_idx: 14 segment_start_time: 20.4323 segment_end_time: 22.1352 fraction: 0.5291169964961717 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 102.05073112798112 z: 325.6617725496036
+current_time: 21.333333333333332 current_cp_idx: 14 segment_start_time: 19.948600000000003 segment_end_time: 21.7006 fraction: 0.7903729071537274 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 106.34944691102132 z: 321.90055489745896
+current_time: 21.666666666666668 current_cp_idx: 14 segment_start_time: 20.4323 segment_end_time: 22.1352 fraction: 0.724861510756161 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 105.27151962909142 z: 322.8437014847534
+current_time: 21.666666666666668 current_cp_idx: 14 segment_start_time: 19.948600000000003 segment_end_time: 21.7006 fraction: 0.9806316590563164 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 109.47997244671808 z: 319.16146059589886
+current_time: 22.0 current_cp_idx: 14 segment_start_time: 20.4323 segment_end_time: 22.1352 fraction: 0.9206060250161483 cp1: 15 cp2: 16 pos1: x     93.344618
+z    333.279300
+Name: 15, dtype: float64 pos2: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 x: 108.49230813020166 z: 320.0256304199033
+current_time: 22.0 current_cp_idx: 15 segment_start_time: 21.7006 segment_end_time: 22.447200000000002 fraction: 0.4010179480310718 cp1: 16 cp2: 17 pos1: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 pos2: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 x: 110.62648224743553 z: 310.10557275833423
+current_time: 22.333333333333332 current_cp_idx: 15 segment_start_time: 22.1352 segment_end_time: 22.746000000000002 fraction: 0.32438332241868156 cp1: 16 cp2: 17 pos1: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 pos2: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 x: 110.46828520803551 z: 311.78286873386594
+current_time: 22.333333333333332 current_cp_idx: 15 segment_start_time: 21.7006 segment_end_time: 22.447200000000002 fraction: 0.8474863827127378 cp1: 16 cp2: 17 pos1: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 pos2: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 x: 111.54812809600325 z: 300.33375352245605
+current_time: 22.666666666666668 current_cp_idx: 15 segment_start_time: 22.1352 segment_end_time: 22.746000000000002 fraction: 0.8701156952630416 cp1: 16 cp2: 17 pos1: x    109.798660
+z    318.882621
+Name: 16, dtype: float64 pos2: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 x: 111.59484183956901 z: 299.8384675526172
+current_time: 22.666666666666668 current_cp_idx: 16 segment_start_time: 22.447200000000002 segment_end_time: 23.117200000000004 fraction: 0.32756218905472395 cp1: 17 cp2: 18 pos1: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 pos2: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 x: 106.39730964419829 z: 278.70683845602616
+current_time: 23.0 current_cp_idx: 16 segment_start_time: 22.746000000000002 segment_end_time: 23.4004 fraction: 0.38814180929095077 cp1: 17 cp2: 18 pos1: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 pos2: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 x: 105.38648735036182 z: 275.32448137014165
+current_time: 23.0 current_cp_idx: 16 segment_start_time: 22.447200000000002 segment_end_time: 23.117200000000004 fraction: 0.8250746268656661 cp1: 17 cp2: 18 pos1: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 pos2: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 x: 98.09589306814163 z: 250.92910210205622
+current_time: 23.333333333333332 current_cp_idx: 16 segment_start_time: 22.746000000000002 segment_end_time: 23.4004 fraction: 0.897514262428684 cp1: 17 cp2: 18 pos1: x    111.862962
+z    296.995700
+Name: 17, dtype: float64 pos2: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 x: 96.88717636937469 z: 246.88456181457937
+current_time: 23.333333333333332 current_cp_idx: 17 segment_start_time: 23.117200000000004 segment_end_time: 24.725000000000005 fraction: 0.13442799684869267 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 92.93193682481574 z: 233.7023697589611
+current_time: 23.666666666666668 current_cp_idx: 17 segment_start_time: 23.4004 segment_end_time: 25.0898 fraction: 0.15761019691409187 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 92.5447543117997 z: 232.41587381536425
+current_time: 23.666666666666668 current_cp_idx: 17 segment_start_time: 23.117200000000004 segment_end_time: 24.725000000000005 fraction: 0.3417506323340363 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 89.46929312465484 z: 222.19700232984465
+current_time: 24.0 current_cp_idx: 17 segment_start_time: 23.4004 segment_end_time: 25.0898 fraction: 0.35491890612051563 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 89.24936036062256 z: 221.46622911752286
+current_time: 24.0 current_cp_idx: 17 segment_start_time: 23.117200000000004 segment_end_time: 24.725000000000005 fraction: 0.5490732678193777 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 86.00664942449397 z: 210.6916349007283
+current_time: 24.333333333333332 current_cp_idx: 17 segment_start_time: 23.4004 segment_end_time: 25.0898 fraction: 0.5522276153269394 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 85.95396640944543 z: 210.51658441968144
+current_time: 24.333333333333332 current_cp_idx: 17 segment_start_time: 23.117200000000004 segment_end_time: 24.725000000000005 fraction: 0.7563959033047192 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 82.5440057243331 z: 199.18626747161198
+current_time: 24.666666666666668 current_cp_idx: 17 segment_start_time: 23.4004 segment_end_time: 25.0898 fraction: 0.7495363245333653 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 82.65857245826827 z: 199.5669397218399
+current_time: 24.666666666666668 current_cp_idx: 17 segment_start_time: 23.117200000000004 segment_end_time: 24.725000000000005 fraction: 0.9637185387900628 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 79.0813620241722 z: 187.68090004249552
+current_time: 25.0 current_cp_idx: 17 segment_start_time: 23.4004 segment_end_time: 25.0898 fraction: 0.946845033739789 cp1: 18 cp2: 19 pos1: x     95.177115
+z    241.162450
+Name: 18, dtype: float64 pos2: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 x: 79.36317850709113 z: 188.6172950239985
+current_time: 25.0 current_cp_idx: 18 segment_start_time: 24.725000000000005 segment_end_time: 26.113000000000007 fraction: 0.19812680115273393 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 74.78561712404228 z: 173.22116861627327
+current_time: 25.333333333333332 current_cp_idx: 18 segment_start_time: 25.0898 segment_end_time: 26.5259 fraction: 0.16957964858528785 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 75.3172603762062 z: 175.01449591049249
+current_time: 25.333333333333332 current_cp_idx: 18 segment_start_time: 24.725000000000005 segment_end_time: 26.113000000000007 fraction: 0.4382804995196876 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 70.31315378755527 z: 158.13475391793762
+current_time: 25.666666666666668 current_cp_idx: 18 segment_start_time: 25.0898 segment_end_time: 26.5259 fraction: 0.4016897616229146 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 70.99459544267509 z: 160.43337788160164
+current_time: 25.666666666666668 current_cp_idx: 18 segment_start_time: 24.725000000000005 segment_end_time: 26.113000000000007 fraction: 0.6784341978866439 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 65.8406904510682 z: 143.0483392196018
+current_time: 26.0 current_cp_idx: 18 segment_start_time: 25.0898 segment_end_time: 26.5259 fraction: 0.6337998746605389 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 66.671930509144 z: 145.85225985271094
+current_time: 26.0 current_cp_idx: 18 segment_start_time: 24.725000000000005 segment_end_time: 26.113000000000007 fraction: 0.9185878962535976 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 61.36822711458119 z: 127.96192452126611
+current_time: 26.333333333333332 current_cp_idx: 18 segment_start_time: 25.0898 segment_end_time: 26.5259 fraction: 0.8659099876981632 cp1: 19 cp2: 20 pos1: x     78.475399
+z    185.667461
+Name: 19, dtype: float64 pos2: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 x: 62.349265575612925 z: 131.27114182382024
+current_time: 26.333333333333332 current_cp_idx: 19 segment_start_time: 26.113000000000007 segment_end_time: 27.649300000000007 fraction: 0.1434181691943796 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 57.30799072948753 z: 118.91976747619863
+current_time: 26.666666666666668 current_cp_idx: 19 segment_start_time: 26.5259 segment_end_time: 28.022100000000002 fraction: 0.0940827875061273 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 58.183142950608264 z: 120.27093933180527
+current_time: 26.666666666666668 current_cp_idx: 19 segment_start_time: 26.113000000000007 segment_end_time: 27.649300000000007 fraction: 0.36038968083490264 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 53.4591687718104 z: 112.97746420489524
+current_time: 27.0 current_cp_idx: 19 segment_start_time: 26.5259 segment_end_time: 28.022100000000002 fraction: 0.31686940248629825 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 54.231167831253025 z: 114.16937502509273
+current_time: 27.0 current_cp_idx: 19 segment_start_time: 26.113000000000007 segment_end_time: 27.649300000000007 fraction: 0.5773611924754234 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 49.61034681413331 z: 107.03516093359192
+current_time: 27.333333333333332 current_cp_idx: 19 segment_start_time: 26.5259 segment_end_time: 28.022100000000002 fraction: 0.5396560174664692 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 50.27919271189779 z: 108.0678107183802
+current_time: 27.333333333333332 current_cp_idx: 19 segment_start_time: 26.113000000000007 segment_end_time: 27.649300000000007 fraction: 0.7943327041159441 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 45.76152485645622 z: 101.0928576622886
+current_time: 27.666666666666668 current_cp_idx: 19 segment_start_time: 26.5259 segment_end_time: 28.022100000000002 fraction: 0.7624426324466425 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 46.32721759254251 z: 101.96624641166761
+current_time: 27.666666666666668 current_cp_idx: 20 segment_start_time: 27.649300000000007 segment_end_time: 28.331900000000008 fraction: 0.02544193768921845 cp1: 21 cp2: 22 pos1: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 pos2: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 x: 41.25586929740638 z: 95.220160574333
+current_time: 28.0 current_cp_idx: 19 segment_start_time: 26.5259 segment_end_time: 28.022100000000002 fraction: 0.9852292474268134 cp1: 20 cp2: 21 pos1: x     59.852062
+z    122.847630
+Name: 20, dtype: float64 pos2: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 x: 42.37524247318727 z: 95.86468210495508
+current_time: 28.0 current_cp_idx: 20 segment_start_time: 27.649300000000007 segment_end_time: 28.331900000000008 fraction: 0.5137708760621041 cp1: 21 cp2: 22 pos1: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 pos2: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 x: 24.799876488041285 z: 90.61386849972466
+current_time: 28.333333333333332 current_cp_idx: 20 segment_start_time: 28.022100000000002 segment_end_time: 28.6609 fraction: 0.4872156126069669 cp1: 21 cp2: 22 pos1: x    42.113227
+z    95.460148
+Name: 21, dtype: float64 pos2: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 x: 25.694751213107953 z: 90.86435805703024
+current_time: 28.333333333333332 current_cp_idx: 21 segment_start_time: 28.331900000000008 segment_end_time: 29.100700000000007 fraction: 0.0018643773846567038 cp1: 22 cp2: 23 pos1: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 pos2: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 x: 8.315467078263874 z: 86.01838356644026
+current_time: 28.666666666666668 current_cp_idx: 21 segment_start_time: 28.6609 segment_end_time: 29.372700000000002 fraction: 0.008101526646061044 cp1: 22 cp2: 23 pos1: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 pos2: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 x: 7.983675852964421 z: 85.9882749569164
+current_time: 28.666666666666668 current_cp_idx: 21 segment_start_time: 28.331900000000008 segment_end_time: 29.100700000000007 fraction: 0.4354405133541367 cp1: 22 cp2: 23 pos1: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 pos2: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 x: -14.749037454937852 z: 83.9253801718361
+current_time: 29.0 current_cp_idx: 21 segment_start_time: 28.6609 segment_end_time: 29.372700000000002 fraction: 0.4763978645686967 cp1: 22 cp2: 23 pos1: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 pos2: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 x: -16.92780361475863 z: 83.72766662624534
+current_time: 29.0 current_cp_idx: 21 segment_start_time: 28.331900000000008 segment_end_time: 29.100700000000007 fraction: 0.8690166493236121 cp1: 22 cp2: 23 pos1: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 pos2: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 x: -37.813541988139335 z: 81.83237677723196
+current_time: 29.333333333333332 current_cp_idx: 21 segment_start_time: 28.6609 segment_end_time: 29.372700000000002 fraction: 0.9446942024913323 cp1: 22 cp2: 23 pos1: x     8.414644
+z    86.027383
+Name: 22, dtype: float64 pos2: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 x: -41.83928308248167 z: 81.46705829557428
+current_time: 29.333333333333332 current_cp_idx: 22 segment_start_time: 29.100700000000007 segment_end_time: 30.279300000000006 fraction: 0.19738107359012844 cp1: 23 cp2: 24 pos1: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 pos2: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 x: -56.71528341514197 z: 80.58988283625222
+current_time: 29.666666666666668 current_cp_idx: 22 segment_start_time: 29.372700000000002 segment_end_time: 30.461100000000002 fraction: 0.27009065294622014 cp1: 23 cp2: 24 pos1: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 pos2: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 x: -61.111413215152396 z: 80.3651033721531
+current_time: 29.666666666666668 current_cp_idx: 22 segment_start_time: 29.100700000000007 segment_end_time: 30.279300000000006 fraction: 0.4802025001414061 cp1: 23 cp2: 24 pos1: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 pos2: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 x: -73.81508941531744 z: 79.71554895536698
+current_time: 30.0 current_cp_idx: 22 segment_start_time: 29.372700000000002 segment_end_time: 30.461100000000002 fraction: 0.5763506063947061 cp1: 23 cp2: 24 pos1: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 pos2: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 x: -79.62834756999123 z: 79.41830999470793
+current_time: 30.0 current_cp_idx: 22 segment_start_time: 29.100700000000007 segment_end_time: 30.279300000000006 fraction: 0.7630239266926807 cp1: 23 cp2: 24 pos1: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 pos2: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 x: -90.91489541549274 z: 78.84121507448175
+current_time: 30.333333333333332 current_cp_idx: 22 segment_start_time: 29.372700000000002 segment_end_time: 30.461100000000002 fraction: 0.8826105598431921 cp1: 23 cp2: 24 pos1: x   -44.781329
+z    81.200080
+Name: 23, dtype: float64 pos2: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 x: -98.14528192483009 z: 78.47151661726275
+current_time: 30.333333333333332 current_cp_idx: 23 segment_start_time: 30.279300000000006 segment_end_time: 31.528500000000008 fraction: 0.043254349450308795 cp1: 24 cp2: 25 pos1: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 pos2: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 x: -107.70822721687651 z: 78.60153109788294
+current_time: 30.666666666666668 current_cp_idx: 23 segment_start_time: 30.461100000000002 segment_end_time: 31.6456 fraction: 0.17354720697903422 cp1: 24 cp2: 25 pos1: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 pos2: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 x: -115.1346382554738 z: 80.08632987411032
+current_time: 30.666666666666668 current_cp_idx: 23 segment_start_time: 30.279300000000006 segment_end_time: 31.528500000000008 fraction: 0.3100917920802601 cp1: 24 cp2: 25 pos1: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 pos2: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 x: -122.91738424239692 z: 81.64237244393483
+current_time: 31.0 current_cp_idx: 23 segment_start_time: 30.461100000000002 segment_end_time: 31.6456 fraction: 0.4549598986914295 cp1: 24 cp2: 25 pos1: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 pos2: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 x: -131.17455295051806 z: 83.29326867486
+current_time: 31.0 current_cp_idx: 23 segment_start_time: 30.279300000000006 segment_end_time: 31.528500000000008 fraction: 0.5769292347102086 cp1: 24 cp2: 25 pos1: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 pos2: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 x: -138.12654126791716 z: 84.68321378998668
+current_time: 31.333333333333332 current_cp_idx: 23 segment_start_time: 30.461100000000002 segment_end_time: 31.6456 fraction: 0.7363725904038247 cp1: 24 cp2: 25 pos1: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 pos2: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 x: -147.21446764556234 z: 86.50020747560967
+current_time: 31.333333333333332 current_cp_idx: 23 segment_start_time: 30.279300000000006 segment_end_time: 31.528500000000008 fraction: 0.8437666773401571 cp1: 24 cp2: 25 pos1: x   -105.242823
+z     78.108611
+Name: 24, dtype: float64 pos2: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 x: -153.33569829343742 z: 87.72405513603854
+current_time: 31.666666666666668 current_cp_idx: 24 segment_start_time: 31.6456 segment_end_time: 32.7307 fraction: 0.019414493287868564 cp1: 25 cp2: 26 pos1: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 pos2: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 x: -163.48537973199714 z: 89.88671646075336
+current_time: 31.666666666666668 current_cp_idx: 24 segment_start_time: 31.528500000000008 segment_end_time: 32.66470000000001 fraction: 0.12160417766824448 cp1: 25 cp2: 26 pos1: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 pos2: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 x: -170.037059555307 z: 91.89871209335148
+current_time: 32.0 current_cp_idx: 24 segment_start_time: 31.6456 segment_end_time: 32.7307 fraction: 0.32660584277946664 cp1: 25 cp2: 26 pos1: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 pos2: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 x: -183.18031644271196 z: 95.93495564748392
+current_time: 32.0 current_cp_idx: 24 segment_start_time: 31.528500000000008 segment_end_time: 32.66470000000001 fraction: 0.41497975708501217 cp1: 25 cp2: 26 pos1: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 pos2: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 x: -188.84622680121134 z: 97.67493488997293
+current_time: 32.333333333333336 current_cp_idx: 24 segment_start_time: 31.6456 segment_end_time: 32.7307 fraction: 0.6337971922710679 cp1: 25 cp2: 26 pos1: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 pos2: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 x: -202.87525315342697 z: 101.98319483421454
+current_time: 32.333333333333336 current_cp_idx: 24 segment_start_time: 31.528500000000008 segment_end_time: 32.66470000000001 fraction: 0.7083553365017831 cp1: 25 cp2: 26 pos1: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 pos2: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 x: -207.65539404711592 z: 103.45115768659446
+current_time: 32.666666666666664 current_cp_idx: 24 segment_start_time: 31.6456 segment_end_time: 32.7307 fraction: 0.9409885417626628 cp1: 25 cp2: 26 pos1: x   -162.240660
+z     89.504468
+Name: 25, dtype: float64 pos2: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 x: -222.57018986414158 z: 108.03143402094503
+current_time: 32.666666666666664 current_cp_idx: 25 segment_start_time: 32.66470000000001 segment_end_time: 33.93900000000001 fraction: 0.0015433309790895383 cp1: 26 cp2: 27 pos1: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 pos2: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 x: -226.46425001988456 z: 109.23002503405786
+current_time: 33.0 current_cp_idx: 25 segment_start_time: 32.7307 segment_end_time: 33.955799999999996 fraction: 0.21981879030283383 cp1: 26 cp2: 27 pos1: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 pos2: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 x: -242.11544655455563 z: 114.42398925458434
+current_time: 33.0 current_cp_idx: 25 segment_start_time: 32.66470000000001 segment_end_time: 33.93900000000001 fraction: 0.2631248528603864 cp1: 26 cp2: 27 pos1: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 pos2: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 x: -245.22065910722156 z: 115.45447678695598
+current_time: 33.333333333333336 current_cp_idx: 25 segment_start_time: 32.7307 segment_end_time: 33.955799999999996 fraction: 0.49190542268658727 cp1: 26 cp2: 27 pos1: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 pos2: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 x: -261.6251127858784 z: 120.89841490858653
+current_time: 33.333333333333336 current_cp_idx: 25 segment_start_time: 32.66470000000001 segment_end_time: 33.93900000000001 fraction: 0.5247063747416832 cp1: 26 cp2: 27 pos1: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 pos2: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 x: -263.97706819455857 z: 121.6789285398541
+current_time: 33.666666666666664 current_cp_idx: 25 segment_start_time: 32.7307 segment_end_time: 33.955799999999996 fraction: 0.763992055070335 cp1: 26 cp2: 27 pos1: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 pos2: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 x: -281.1347790172008 z: 127.37284056258858
+current_time: 33.666666666666664 current_cp_idx: 25 segment_start_time: 32.66470000000001 segment_end_time: 33.93900000000001 fraction: 0.7862878966229745 cp1: 26 cp2: 27 pos1: x   -226.353587
+z    109.193301
+Name: 26, dtype: float64 pos2: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 x: -282.7334772818952 z: 127.9033802927521
+current_time: 34.0 current_cp_idx: 26 segment_start_time: 33.955799999999996 segment_end_time: 35.287699999999994 fraction: 0.03318567460019795 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -299.86895556428976 z: 133.59693053024967
+current_time: 34.0 current_cp_idx: 26 segment_start_time: 33.93900000000001 segment_end_time: 35.30970000000001 fraction: 0.044502808783827875 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -300.48671907039295 z: 133.80433258819284
+current_time: 34.333333333333336 current_cp_idx: 26 segment_start_time: 33.955799999999996 segment_end_time: 35.287699999999994 fraction: 0.28345471381735865 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -313.5302833021456 z: 138.18345508062387
+current_time: 34.333333333333336 current_cp_idx: 26 segment_start_time: 33.93900000000001 segment_end_time: 35.30970000000001 fraction: 0.28768755623646947 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -313.76133963948183 z: 138.26102774296294
+current_time: 34.666666666666664 current_cp_idx: 26 segment_start_time: 33.955799999999996 segment_end_time: 35.287699999999994 fraction: 0.533723753034514 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -327.19161104000113 z: 142.76997963099797
+current_time: 34.666666666666664 current_cp_idx: 26 segment_start_time: 33.93900000000001 segment_end_time: 35.30970000000001 fraction: 0.5308723036891059 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -327.03596020857043 z: 142.71772289773293
+current_time: 35.0 current_cp_idx: 26 segment_start_time: 33.955799999999996 segment_end_time: 35.287699999999994 fraction: 0.7839927922516747 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -340.85293877785693 z: 147.35650418137215
+current_time: 35.0 current_cp_idx: 26 segment_start_time: 33.93900000000001 segment_end_time: 35.30970000000001 fraction: 0.7740570511417475 cp1: 27 cp2: 28 pos1: x   -298.057464
+z    132.988757
+Name: 27, dtype: float64 pos2: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 x: -340.3105807776593 z: 147.17441805250303
+current_time: 35.333333333333336 current_cp_idx: 27 segment_start_time: 35.287699999999994 segment_end_time: 36.323499999999996 fraction: 0.04405612409088798 cp1: 28 cp2: 29 pos1: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 pos2: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 x: -353.6240828957904 z: 151.57590244670288
+current_time: 35.333333333333336 current_cp_idx: 27 segment_start_time: 35.30970000000001 segment_end_time: 36.31080000000001 fraction: 0.02360736523157442 cp1: 28 cp2: 29 pos1: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 pos2: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 x: -353.16918926987375 z: 151.45486590538596
+current_time: 35.666666666666664 current_cp_idx: 27 segment_start_time: 35.287699999999994 segment_end_time: 36.323499999999996 fraction: 0.36586857179636006 cp1: 28 cp2: 29 pos1: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 pos2: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 x: -360.78297367292873 z: 153.48071563810402
+current_time: 35.666666666666664 current_cp_idx: 27 segment_start_time: 35.30970000000001 segment_end_time: 36.31080000000001 fraction: 0.3565744347883902 cp1: 28 cp2: 29 pos1: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 pos2: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 x: -360.57622060236787 z: 153.4257034876987
+current_time: 36.0 current_cp_idx: 27 segment_start_time: 35.287699999999994 segment_end_time: 36.323499999999996 fraction: 0.687681019501839 cp1: 28 cp2: 29 pos1: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 pos2: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 x: -367.9418644500672 z: 155.3855288295052
+current_time: 36.0 current_cp_idx: 27 segment_start_time: 35.30970000000001 segment_end_time: 36.31080000000001 fraction: 0.6895415043452131 cp1: 28 cp2: 29 pos1: x   -352.644031
+z    151.315134
+Name: 28, dtype: float64 pos2: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 x: -367.98325193486215 z: 155.39654107001152
+current_time: 36.333333333333336 current_cp_idx: 28 segment_start_time: 36.323499999999996 segment_end_time: 36.8741 fraction: 0.017859305000617456 cp1: 29 cp2: 30 pos1: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 pos2: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 x: -375.38823236614365 z: 157.21929157528896
+current_time: 36.333333333333336 current_cp_idx: 28 segment_start_time: 36.31080000000001 segment_end_time: 36.75070000000001 fraction: 0.051223762976422164 cp1: 29 cp2: 30 pos1: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 pos2: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 x: -376.31982897530077 z: 157.19153325286283
+current_time: 36.666666666666664 current_cp_idx: 28 segment_start_time: 36.323499999999996 segment_end_time: 36.8741 fraction: 0.6232594745126532 cp1: 29 cp2: 30 pos1: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 pos2: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 x: -392.292110903884 z: 156.7156150847453
+current_time: 36.666666666666664 current_cp_idx: 28 segment_start_time: 36.31080000000001 segment_end_time: 36.75070000000001 fraction: 0.8089717360005809 cp1: 29 cp2: 30 pos1: x   -374.889568
+z    157.234150
+Name: 29, dtype: float64 pos2: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 x: -397.47753646081986 z: 156.56110752953177
+current_time: 37.0 current_cp_idx: 29 segment_start_time: 36.8741 segment_end_time: 37.702 fraction: 0.15207150622055987 cp1: 30 cp2: 31 pos1: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 pos2: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 x: -406.33592319281473 z: 154.40245564892743
+current_time: 37.0 current_cp_idx: 29 segment_start_time: 36.75070000000001 segment_end_time: 37.44910000000001 fraction: 0.3569587628865853 cp1: 30 cp2: 31 pos1: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 pos2: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 x: -411.08455118491577 z: 151.70821348721825
+current_time: 37.333333333333336 current_cp_idx: 29 segment_start_time: 36.8741 segment_end_time: 37.702 fraction: 0.5546966219752837 cp1: 30 cp2: 31 pos1: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 pos2: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 x: -415.66747912316873 z: 149.10798502210048
+current_time: 37.333333333333336 current_cp_idx: 29 segment_start_time: 36.75070000000001 segment_end_time: 37.44910000000001 fraction: 0.8342401680030457 cp1: 30 cp2: 31 pos1: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 pos2: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 x: -422.14639991736146 z: 145.43202186071474
+current_time: 37.666666666666664 current_cp_idx: 29 segment_start_time: 36.8741 segment_end_time: 37.702 fraction: 0.957321737729999 cp1: 30 cp2: 31 pos1: x   -402.811395
+z    156.402177
+Name: 30, dtype: float64 pos2: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 x: -424.9990350535225 z: 143.81351439527364
+current_time: 37.666666666666664 current_cp_idx: 30 segment_start_time: 37.44910000000001 segment_end_time: 38.23880000000001 fraction: 0.2755054662107824 cp1: 31 cp2: 32 pos1: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 pos2: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 x: -430.9064431507573 z: 133.96258652312724
+current_time: 38.0 current_cp_idx: 30 segment_start_time: 37.702 segment_end_time: 38.474 fraction: 0.38601036269430367 cp1: 31 cp2: 32 pos1: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 pos2: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 x: -432.8791523307304 z: 130.2364939106264
+current_time: 38.0 current_cp_idx: 30 segment_start_time: 37.44910000000001 segment_end_time: 38.23880000000001 fraction: 0.697606686083309 cp1: 31 cp2: 32 pos1: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 pos2: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 x: -438.44170156751477 z: 119.72983949431881
+current_time: 38.333333333333336 current_cp_idx: 30 segment_start_time: 37.702 segment_end_time: 38.474 fraction: 0.8177892918825632 cp1: 31 cp2: 32 pos1: x   -425.988180
+z    143.252301
+Name: 31, dtype: float64 pos2: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 x: -440.58717509201716 z: 115.67742612740088
+current_time: 38.333333333333336 current_cp_idx: 31 segment_start_time: 38.23880000000001 segment_end_time: 39.28870000000001 fraction: 0.09004032130043216 cp1: 32 cp2: 33 pos1: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 pos2: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 x: -443.7283140686238 z: 101.53987359471631
+current_time: 38.666666666666664 current_cp_idx: 31 segment_start_time: 38.474 segment_end_time: 39.503899999999994 fraction: 0.1870731786257579 cp1: 32 cp2: 33 pos1: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 pos2: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 x: -443.60799695699217 z: 92.92546226213692
+current_time: 38.666666666666664 current_cp_idx: 31 segment_start_time: 38.23880000000001 segment_end_time: 39.28870000000001 fraction: 0.40753087595642634 cp1: 32 cp2: 33 pos1: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 pos2: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 x: -443.3346376629248 z: 73.35360445450338
+current_time: 39.0 current_cp_idx: 31 segment_start_time: 38.474 segment_end_time: 39.503899999999994 fraction: 0.5107291970094228 cp1: 32 cp2: 33 pos1: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 pos2: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 x: -443.20667560701315 z: 64.19183378334259
+current_time: 39.0 current_cp_idx: 31 segment_start_time: 38.23880000000001 segment_end_time: 39.28870000000001 fraction: 0.7250214306124273 cp1: 32 cp2: 33 pos1: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 pos2: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 x: -442.94096125722587 z: 45.16733531428984
+current_time: 39.333333333333336 current_cp_idx: 31 segment_start_time: 38.474 segment_end_time: 39.503899999999994 fraction: 0.8343852153930875 cp1: 32 cp2: 33 pos1: x   -443.839961
+z    109.533500
+Name: 32, dtype: float64 pos2: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 x: -442.8053542570342 z: 35.45820530454827
+current_time: 39.333333333333336 current_cp_idx: 32 segment_start_time: 39.28870000000001 segment_end_time: 41.56560000000001 fraction: 0.019602676153244725 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -442.56949202556694 z: 19.11761858720512
+current_time: 39.666666666666664 current_cp_idx: 32 segment_start_time: 39.503899999999994 segment_end_time: 41.72149999999999 fraction: 0.07339766714766867 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -442.48577512979676 z: 14.623635921265066
+current_time: 39.666666666666664 current_cp_idx: 32 segment_start_time: 39.28870000000001 segment_end_time: 41.56560000000001 fraction: 0.16600055631193808 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -442.3416645671425 z: 6.887678148480408
+current_time: 40.0 current_cp_idx: 32 segment_start_time: 39.503899999999994 segment_end_time: 41.72149999999999 fraction: 0.22371031746032022 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -442.2518554237692 z: 2.0666592866452547
+current_time: 40.0 current_cp_idx: 32 segment_start_time: 39.28870000000001 segment_end_time: 41.56560000000001 fraction: 0.3123984364706346 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -442.11383710871803 z: -5.3422622902445696
+current_time: 40.333333333333336 current_cp_idx: 32 segment_start_time: 39.503899999999994 segment_end_time: 41.72149999999999 fraction: 0.3740229677729718 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -442.01793571774164 z: -10.49031734797456
+current_time: 40.333333333333336 current_cp_idx: 32 segment_start_time: 39.28870000000001 segment_end_time: 41.56560000000001 fraction: 0.45879631662933107 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.88600965029354 z: -17.572202728969543
+current_time: 40.666666666666664 current_cp_idx: 32 segment_start_time: 39.503899999999994 segment_end_time: 41.72149999999999 fraction: 0.5243356180856201 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.78401601171413 z: -23.047293982594105
+current_time: 40.666666666666664 current_cp_idx: 32 segment_start_time: 39.28870000000001 segment_end_time: 41.56560000000001 fraction: 0.6051941967880244 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.6581821918691 z: -29.80214316769426
+current_time: 41.0 current_cp_idx: 32 segment_start_time: 39.503899999999994 segment_end_time: 41.72149999999999 fraction: 0.6746482683982717 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.55009630568657 z: -35.60427061721393
+current_time: 41.0 current_cp_idx: 32 segment_start_time: 39.28870000000001 segment_end_time: 41.56560000000001 fraction: 0.7515920769467209 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.43035473344463 z: -42.032083606419235
+current_time: 41.333333333333336 current_cp_idx: 32 segment_start_time: 39.503899999999994 segment_end_time: 41.72149999999999 fraction: 0.8249609187109233 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.31617659965906 z: -48.16124725183374
+current_time: 41.333333333333336 current_cp_idx: 32 segment_start_time: 39.28870000000001 segment_end_time: 41.56560000000001 fraction: 0.8979899571054174 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.20252727502015 z: -54.2620240451442
+current_time: 41.666666666666664 current_cp_idx: 32 segment_start_time: 39.503899999999994 segment_end_time: 41.72149999999999 fraction: 0.9752735690235717 cp1: 33 cp2: 34 pos1: x   -442.599998
+z     20.755208
+Name: 33, dtype: float64 pos2: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 x: -441.0822568936315 z: -60.71822388645329
+current_time: 41.666666666666664 current_cp_idx: 33 segment_start_time: 41.56560000000001 segment_end_time: 43.451400000000014 fraction: 0.05359352352670144 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -441.03239092721105 z: -65.61228214795298
+current_time: 42.0 current_cp_idx: 33 segment_start_time: 41.72149999999999 segment_end_time: 43.58249999999999 fraction: 0.14965072541644742 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -441.01198316116927 z: -70.6817680125342
+current_time: 42.0 current_cp_idx: 33 segment_start_time: 41.56560000000001 segment_end_time: 43.451400000000014 fraction: 0.2303531657651865 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.994837580315 z: -74.9408956212556
+current_time: 42.333333333333336 current_cp_idx: 33 segment_start_time: 41.72149999999999 segment_end_time: 43.58249999999999 fraction: 0.32876589647143734 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.9739293720362 z: -80.13469616296632
+current_time: 42.333333333333336 current_cp_idx: 33 segment_start_time: 41.56560000000001 segment_end_time: 43.451400000000014 fraction: 0.40711280800367156 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.9572842334189 z: -84.26950909455823
+current_time: 42.666666666666664 current_cp_idx: 33 segment_start_time: 41.72149999999999 segment_end_time: 43.58249999999999 fraction: 0.5078810675264234 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.9358755829031 z: -89.58762431339821
+current_time: 42.666666666666664 current_cp_idx: 33 segment_start_time: 41.56560000000001 segment_end_time: 43.451400000000014 fraction: 0.5838724502421528 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.91973088652276 z: -93.59812256786066
+current_time: 43.0 current_cp_idx: 33 segment_start_time: 41.72149999999999 segment_end_time: 43.58249999999999 fraction: 0.6869962385814133 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.89782179377005 z: -99.04055246383032
+current_time: 43.0 current_cp_idx: 33 segment_start_time: 41.56560000000001 segment_end_time: 43.451400000000014 fraction: 0.7606320924806379 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.8821775396267 z: -102.92673604116328
+current_time: 43.333333333333336 current_cp_idx: 33 segment_start_time: 41.72149999999999 segment_end_time: 43.58249999999999 fraction: 0.8661114096364032 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.859768004637 z: -108.49348061426244
+current_time: 43.333333333333336 current_cp_idx: 33 segment_start_time: 41.56560000000001 segment_end_time: 43.451400000000014 fraction: 0.937391734719123 cp1: 34 cp2: 35 pos1: x   -441.043777
+z    -62.783847
+Name: 34, dtype: float64 pos2: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 x: -440.8446241927306 z: -112.2553495144659
+current_time: 43.666666666666664 current_cp_idx: 34 segment_start_time: 43.58249999999999 segment_end_time: 44.68889999999999 fraction: 0.0760725476018396 cp1: 35 cp2: 36 pos1: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 pos2: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 x: -440.79267871050877 z: -120.85798964881812
+current_time: 43.666666666666664 current_cp_idx: 34 segment_start_time: 43.451400000000014 segment_end_time: 44.56300000000002 fraction: 0.19365479189155269 cp1: 35 cp2: 36 pos1: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 pos2: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 x: -440.73294811659576 z: -129.04758106455455
+current_time: 44.0 current_cp_idx: 34 segment_start_time: 43.58249999999999 segment_end_time: 44.68889999999999 fraction: 0.3773499638467198 cp1: 35 cp2: 36 pos1: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 pos2: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 x: -440.6396328223851 z: -141.84193120171955
+current_time: 44.0 current_cp_idx: 34 segment_start_time: 43.451400000000014 segment_end_time: 44.56300000000002 fraction: 0.4935228499460101 cp1: 35 cp2: 36 pos1: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 pos2: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 x: -440.58061816821504 z: -149.9333609621167
+current_time: 44.333333333333336 current_cp_idx: 34 segment_start_time: 43.58249999999999 segment_end_time: 44.68889999999999 fraction: 0.6786273800916001 cp1: 35 cp2: 36 pos1: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 pos2: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 x: -440.4865869342615 z: -162.825872754621
+current_time: 44.333333333333336 current_cp_idx: 34 segment_start_time: 43.451400000000014 segment_end_time: 44.56300000000002 fraction: 0.7933909080004675 cp1: 35 cp2: 36 pos1: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 pos2: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 x: -440.4282882198343 z: -170.81914085967887
+current_time: 44.666666666666664 current_cp_idx: 34 segment_start_time: 43.58249999999999 segment_end_time: 44.68889999999999 fraction: 0.9799047963364739 cp1: 35 cp2: 36 pos1: x   -440.831323
+z   -115.559544
+Name: 35, dtype: float64 pos2: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 x: -440.33354104613784 z: -183.80981430752198
+current_time: 44.666666666666664 current_cp_idx: 35 segment_start_time: 44.56300000000002 segment_end_time: 45.97510000000002 fraction: 0.07341311993955635 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.3190620455417 z: -188.47441038404114
+current_time: 45.0 current_cp_idx: 35 segment_start_time: 44.68889999999999 segment_end_time: 46.10589999999999 fraction: 0.21954834156669725 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.3105605661094 z: -194.97361246274588
+current_time: 45.0 current_cp_idx: 35 segment_start_time: 44.56300000000002 segment_end_time: 45.97510000000002 fraction: 0.3094681679767599 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.30532944149576 z: -198.97269712018831
+current_time: 45.333333333333336 current_cp_idx: 35 segment_start_time: 44.68889999999999 segment_end_time: 46.10589999999999 fraction: 0.45478710891555774 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.2968754495439 z: -205.43559601963608
+current_time: 45.333333333333336 current_cp_idx: 35 segment_start_time: 44.56300000000002 segment_end_time: 45.97510000000002 fraction: 0.5455232160139635 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.29159683744973 z: -209.47098385633547
+current_time: 45.666666666666664 current_cp_idx: 35 segment_start_time: 44.68889999999999 segment_end_time: 46.10589999999999 fraction: 0.6900258762644133 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.2831903329784 z: -215.89757957652608
+current_time: 45.666666666666664 current_cp_idx: 35 segment_start_time: 44.56300000000002 segment_end_time: 45.97510000000002 fraction: 0.781578264051162 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.27786423340376 z: -219.96927059248242
+current_time: 46.0 current_cp_idx: 35 segment_start_time: 44.68889999999999 segment_end_time: 46.10589999999999 fraction: 0.9252646436132738 cp1: 36 cp2: 37 pos1: x   -440.323333
+z   -185.209443
+Name: 36, dtype: float64 pos2: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 x: -440.2695052164129 z: -226.3595631334163
+current_time: 46.0 current_cp_idx: 36 segment_start_time: 45.97510000000002 segment_end_time: 46.91090000000002 fraction: 0.026608249625968194 cp1: 37 cp2: 38 pos1: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 pos2: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 x: -440.1121731420915 z: -230.33408215826566
+current_time: 46.333333333333336 current_cp_idx: 36 segment_start_time: 46.10589999999999 segment_end_time: 47.002399999999994 fraction: 0.253690277003172 cp1: 37 cp2: 38 pos1: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 pos2: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 x: -438.8065634761693 z: -235.88773246664374
+current_time: 46.333333333333336 current_cp_idx: 36 segment_start_time: 45.97510000000002 segment_end_time: 46.91090000000002 fraction: 0.38280971717601686 cp1: 37 cp2: 38 pos1: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 pos2: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 x: -438.0641903738361 z: -239.04555269141383
+current_time: 46.666666666666664 current_cp_idx: 36 segment_start_time: 46.10589999999999 segment_end_time: 47.002399999999994 fraction: 0.6255065997397335 cp1: 37 cp2: 38 pos1: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 pos2: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 x: -436.66880299146953 z: -244.98108899193082
+current_time: 46.666666666666664 current_cp_idx: 36 segment_start_time: 45.97510000000002 segment_end_time: 46.91090000000002 fraction: 0.739011184726058 cp1: 37 cp2: 38 pos1: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 pos2: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 x: -436.0162076055808 z: -247.7570232245618
+current_time: 47.0 current_cp_idx: 36 segment_start_time: 46.10589999999999 segment_end_time: 47.002399999999994 fraction: 0.9973229224763029 cp1: 37 cp2: 38 pos1: x   -440.265157
+z   -229.683335
+Name: 37, dtype: float64 pos2: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 x: -434.5310425067698 z: -254.07444551721807
+current_time: 47.0 current_cp_idx: 37 segment_start_time: 46.91090000000002 segment_end_time: 47.441200000000016 fraction: 0.16801810296055283 cp1: 38 cp2: 39 pos1: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 pos2: x   -421.058553
+z   -265.488505
+Name: 39, dtype: float64 x: -432.25461468451414 z: -256.04668579409866
+current_time: 47.333333333333336 current_cp_idx: 37 segment_start_time: 47.002399999999994 segment_end_time: 47.55949999999999 fraction: 0.5940286004906521 cp1: 38 cp2: 39 pos1: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 pos2: x   -421.058553
+z   -265.488505
+Name: 39, dtype: float64 x: -426.5217500012287 z: -260.88130311722824
+current_time: 47.333333333333336 current_cp_idx: 37 segment_start_time: 46.91090000000002 segment_end_time: 47.441200000000016 fraction: 0.7965931233892491 cp1: 38 cp2: 39 pos1: x   -434.515651
+z   -254.139918
+Name: 38, dtype: float64 pos2: x   -421.058553
+z   -265.488505
+Name: 39, dtype: float64 x: -423.79581952264965 z: -263.180124289793
+current_time: 47.666666666666664 current_cp_idx: 38 segment_start_time: 47.55949999999999 segment_end_time: 48.01069999999999 fraction: 0.23751477541372232 cp1: 39 cp2: 40 pos1: x   -421.058553
+z   -265.488505
+Name: 39, dtype: float64 pos2: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 x: -409.23707073290325 z: -272.4986073632549
+current_time: 47.666666666666664 current_cp_idx: 38 segment_start_time: 47.441200000000016 segment_end_time: 47.810400000000016 fraction: 0.610689779703815 cp1: 39 cp2: 40 pos1: x   -421.058553
+z   -265.488505
+Name: 39, dtype: float64 pos2: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 x: -390.66356581974173 z: -283.5126378789403
+current_time: 48.0 current_cp_idx: 38 segment_start_time: 47.55949999999999 segment_end_time: 48.01069999999999 fraction: 0.9762854609929237 cp1: 39 cp2: 40 pos1: x   -421.058553
+z   -265.488505
+Name: 39, dtype: float64 pos2: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 x: -372.4672956928838 z: -294.30296934227397
+current_time: 48.0 current_cp_idx: 39 segment_start_time: 47.810400000000016 segment_end_time: 49.03010000000002 fraction: 0.15544806099859307 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -365.9591527856556 z: -297.92732407965644
+current_time: 48.333333333333336 current_cp_idx: 39 segment_start_time: 48.01069999999999 segment_end_time: 49.34839999999999 fraction: 0.24118511873614662 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -363.0205974018504 z: -299.5402900223891
+current_time: 48.333333333333336 current_cp_idx: 39 segment_start_time: 47.810400000000016 segment_end_time: 49.03010000000002 fraction: 0.4287393074799695 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -356.59235755280594 z: -303.0687353276464
+current_time: 48.666666666666664 current_cp_idx: 39 segment_start_time: 48.01069999999999 segment_end_time: 49.34839999999999 fraction: 0.49036904138945386 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -354.4800575607003 z: -304.2281716843262
+current_time: 48.666666666666664 current_cp_idx: 39 segment_start_time: 47.810400000000016 segment_end_time: 49.03010000000002 fraction: 0.7020305539613402 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -347.2255623199565 z: -308.21014657563626
+current_time: 49.0 current_cp_idx: 39 segment_start_time: 48.01069999999999 segment_end_time: 49.34839999999999 fraction: 0.7395529640427664 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -345.93951771955 z: -308.91605334626337
+current_time: 49.0 current_cp_idx: 39 segment_start_time: 47.810400000000016 segment_end_time: 49.03010000000002 fraction: 0.9753218004427165 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -337.85876708710686 z: -313.3515578236262
+current_time: 49.333333333333336 current_cp_idx: 39 segment_start_time: 48.01069999999999 segment_end_time: 49.34839999999999 fraction: 0.9887368866960788 cp1: 40 cp2: 41 pos1: x   -371.286986
+z   -295.002889
+Name: 40, dtype: float64 pos2: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 x: -337.3989778783997 z: -313.60393500820055
+current_time: 49.333333333333336 current_cp_idx: 40 segment_start_time: 49.03010000000002 segment_end_time: 49.801400000000015 fraction: 0.3931457712087623 cp1: 41 cp2: 42 pos1: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 pos2: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 x: -315.9750683476469 z: -316.16093106769387
+current_time: 49.666666666666664 current_cp_idx: 40 segment_start_time: 49.34839999999999 segment_end_time: 50.18519999999999 fraction: 0.38033779477375074 cp1: 41 cp2: 42 pos1: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 pos2: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 x: -316.66044424192245 z: -316.08453183739573
+current_time: 49.666666666666664 current_cp_idx: 40 segment_start_time: 49.03010000000002 segment_end_time: 49.801400000000015 fraction: 0.8253165651065065 cp1: 41 cp2: 42 pos1: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 pos2: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 x: -292.8488980388266 z: -318.73881807261193
+current_time: 50.0 current_cp_idx: 40 segment_start_time: 49.34839999999999 segment_end_time: 50.18519999999999 fraction: 0.778680688336534 cp1: 41 cp2: 42 pos1: x   -337.012945
+z   -313.815827
+Name: 41, dtype: float64 pos2: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 x: -295.34446054307745 z: -318.46063633894136
+current_time: 50.0 current_cp_idx: 41 segment_start_time: 49.801400000000015 segment_end_time: 50.834800000000016 fraction: 0.19218114960323662 cp1: 42 cp2: 43 pos1: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 pos2: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 x: -272.92457199535596 z: -320.67720975420934
+current_time: 50.333333333333336 current_cp_idx: 41 segment_start_time: 50.18519999999999 segment_end_time: 51.294299999999986 fraction: 0.13356174676165214 cp1: 42 cp2: 43 pos1: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 pos2: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 x: -276.15070255462314 z: -320.40378541159504
+current_time: 50.333333333333336 current_cp_idx: 41 segment_start_time: 49.801400000000015 segment_end_time: 50.834800000000016 fraction: 0.5147409844526034 cp1: 42 cp2: 43 pos1: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 pos2: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 x: -255.1724269724541 z: -322.1817578478807
+current_time: 50.666666666666664 current_cp_idx: 41 segment_start_time: 50.18519999999999 segment_end_time: 51.294299999999986 fraction: 0.4341057313737964 cp1: 42 cp2: 43 pos1: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 pos2: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 x: -259.61020425269686 z: -321.80564277341995
+current_time: 50.666666666666664 current_cp_idx: 41 segment_start_time: 49.801400000000015 segment_end_time: 50.834800000000016 fraction: 0.8373008193019632 cp1: 42 cp2: 43 pos1: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 pos2: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 x: -237.42028194955262 z: -323.68630594155206
+current_time: 51.0 current_cp_idx: 41 segment_start_time: 50.18519999999999 segment_end_time: 51.294299999999986 fraction: 0.7346497159859471 cp1: 42 cp2: 43 pos1: x   -283.5013
+z   -319.7808
+Name: 42, dtype: float64 pos2: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 x: -243.0697059507702 z: -323.20750013524486
+current_time: 51.0 current_cp_idx: 42 segment_start_time: 50.834800000000016 segment_end_time: 51.88820000000001 fraction: 0.15682551737230402 cp1: 43 cp2: 44 pos1: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 pos2: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 x: -218.20590030377917 z: -325.0817234099107
+current_time: 51.333333333333336 current_cp_idx: 42 segment_start_time: 51.294299999999986 segment_end_time: 52.40519999999999 fraction: 0.03513667596844909 cp1: 43 cp2: 44 pos1: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 pos2: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 x: -226.1673075704374 z: -324.58781274042076
+current_time: 51.333333333333336 current_cp_idx: 42 segment_start_time: 50.834800000000016 segment_end_time: 51.88820000000001 fraction: 0.4732611860008752 cp1: 43 cp2: 44 pos1: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 pos2: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 x: -197.50331818872294 z: -326.36607250174035
+current_time: 51.666666666666664 current_cp_idx: 42 segment_start_time: 51.294299999999986 segment_end_time: 52.40519999999999 fraction: 0.33519368680050265 cp1: 43 cp2: 44 pos1: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 pos2: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 x: -206.53628767665788 z: -325.80568413598587
+current_time: 51.666666666666664 current_cp_idx: 42 segment_start_time: 50.834800000000016 segment_end_time: 51.88820000000001 fraction: 0.7896968546294396 cp1: 43 cp2: 44 pos1: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 pos2: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 x: -176.80073607366717 z: -327.65042159357
+current_time: 52.0 current_cp_idx: 42 segment_start_time: 51.294299999999986 segment_end_time: 52.40519999999999 fraction: 0.6352506976325627 cp1: 43 cp2: 44 pos1: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 pos2: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 x: -186.90526778287793 z: -327.02355553155104
+current_time: 52.0 current_cp_idx: 43 segment_start_time: 51.88820000000001 segment_end_time: 53.09640000000001 fraction: 0.09253434861776885 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -158.43618502731383 z: -328.71653289190533
+current_time: 52.333333333333336 current_cp_idx: 42 segment_start_time: 51.294299999999986 segment_end_time: 52.40519999999999 fraction: 0.9353077084646226 cp1: 43 cp2: 44 pos1: x   -228.4661
+z   -324.4452
+Name: 43, dtype: float64 pos2: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 x: -167.27424788909798 z: -328.2414269271162
+current_time: 52.333333333333336 current_cp_idx: 43 segment_start_time: 51.88820000000001 segment_end_time: 53.09640000000001 fraction: 0.36842686089498805 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -144.7044767008777 z: -329.3502028141036
+current_time: 52.666666666666664 current_cp_idx: 43 segment_start_time: 52.40519999999999 segment_end_time: 53.677199999999985 fraction: 0.2055555555555646 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -152.81089916666622 z: -328.97612000000004
+current_time: 52.666666666666664 current_cp_idx: 43 segment_start_time: 51.88820000000001 segment_end_time: 53.09640000000001 fraction: 0.6443193731722014 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -130.97276837444184 z: -329.9838727363019
+current_time: 53.0 current_cp_idx: 43 segment_start_time: 52.40519999999999 segment_end_time: 53.677199999999985 fraction: 0.467610062893093 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -139.76793533018812 z: -329.57800679245287
+current_time: 53.0 current_cp_idx: 43 segment_start_time: 51.88820000000001 segment_end_time: 53.09640000000001 fraction: 0.9202118854494207 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -117.24106004800572 z: -330.6175426585002
+current_time: 53.333333333333336 current_cp_idx: 43 segment_start_time: 52.40519999999999 segment_end_time: 53.677199999999985 fraction: 0.7296645702306214 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -126.72497149371003 z: -330.1798935849057
+current_time: 53.333333333333336 current_cp_idx: 44 segment_start_time: 53.09640000000001 segment_end_time: 53.98420000000001 fraction: 0.26687692423217646 cp1: 45 cp2: 46 pos1: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 pos2: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 x: -98.82325899677149 z: -330.3443870841781
+current_time: 53.666666666666664 current_cp_idx: 43 segment_start_time: 52.40519999999999 segment_end_time: 53.677199999999985 fraction: 0.9917190775681441 cp1: 44 cp2: 45 pos1: x   -163.0418
+z   -328.5040
+Name: 44, dtype: float64 pos2: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 x: -113.68200765723222 z: -330.7817803773585
+current_time: 53.666666666666664 current_cp_idx: 44 segment_start_time: 53.09640000000001 segment_end_time: 53.98420000000001 fraction: 0.6423368626567418 cp1: 45 cp2: 46 pos1: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 pos2: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 x: -78.49884846887505 z: -329.70227549748444
+current_time: 54.0 current_cp_idx: 44 segment_start_time: 53.677199999999985 segment_end_time: 54.60279999999999 fraction: 0.34874675885913364 cp1: 45 cp2: 46 pos1: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 pos2: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 x: -94.39147824330082 z: -330.2043732929991
+current_time: 54.0 current_cp_idx: 45 segment_start_time: 53.98420000000001 segment_end_time: 54.94760000000001 fraction: 0.016400249117699398 cp1: 46 cp2: 47 pos1: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 pos2: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 x: -58.460169416649734 z: -329.089977610546
+current_time: 54.333333333333336 current_cp_idx: 44 segment_start_time: 53.677199999999985 segment_end_time: 54.60279999999999 fraction: 0.7088735234802817 cp1: 45 cp2: 46 pos1: x   -113.26985
+z   -330.80080
+Name: 45, dtype: float64 pos2: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 x: -74.89708361639208 z: -329.58848450014403
+current_time: 54.333333333333336 current_cp_idx: 45 segment_start_time: 53.98420000000001 segment_end_time: 54.94760000000001 fraction: 0.362397065946987 cp1: 46 cp2: 47 pos1: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 pos2: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 x: -44.16384909279661 z: -329.0768470313473
+current_time: 54.666666666666664 current_cp_idx: 45 segment_start_time: 54.60279999999999 segment_end_time: 55.594999999999985 fraction: 0.06436874286099245 cp1: 46 cp2: 47 pos1: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 pos2: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 x: -56.47814843075951 z: -329.08815720620845
+current_time: 54.666666666666664 current_cp_idx: 45 segment_start_time: 53.98420000000001 segment_end_time: 54.94760000000001 fraction: 0.7083938827762672 cp1: 46 cp2: 47 pos1: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 pos2: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 x: -29.86752876894379 z: -329.06371645214864
+current_time: 55.0 current_cp_idx: 45 segment_start_time: 54.60279999999999 segment_end_time: 55.594999999999985 fraction: 0.400322515621864 cp1: 46 cp2: 47 pos1: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 pos2: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 x: -42.59679890445419 z: -329.0754077605322
+current_time: 55.0 current_cp_idx: 46 segment_start_time: 54.94760000000001 segment_end_time: 55.74110000000001 fraction: 0.06603654694390858 cp1: 47 cp2: 48 pos1: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 pos2: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 x: -15.697407155607783 z: -329.43858593886677
+current_time: 55.333333333333336 current_cp_idx: 45 segment_start_time: 54.60279999999999 segment_end_time: 55.594999999999985 fraction: 0.7362762883827355 cp1: 46 cp2: 47 pos1: x    -59.137815
+z   -329.090600
+Name: 46, dtype: float64 pos2: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 x: -28.715449378148868 z: -329.06265831485587
+current_time: 55.333333333333336 current_cp_idx: 46 segment_start_time: 54.94760000000001 segment_end_time: 55.74110000000001 fraction: 0.486116362108792 cp1: 47 cp2: 48 pos1: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 pos2: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 x: -2.20387761112576 z: -331.8936491632104
+current_time: 55.666666666666664 current_cp_idx: 46 segment_start_time: 55.594999999999985 segment_end_time: 56.375599999999984 fraction: 0.09180971901957426 cp1: 47 cp2: 48 pos1: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 pos2: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 x: -14.869538149996284 z: -329.5892115215619
+current_time: 55.666666666666664 current_cp_idx: 46 segment_start_time: 54.94760000000001 segment_end_time: 55.74110000000001 fraction: 0.9061961772736665 cp1: 47 cp2: 48 pos1: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 pos2: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 x: 11.289651933355977 z: -334.348712387554
+current_time: 56.0 current_cp_idx: 46 segment_start_time: 55.594999999999985 segment_end_time: 56.375599999999984 fraction: 0.5188316679477524 cp1: 47 cp2: 48 pos1: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 pos2: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 x: -1.1530179174232487 z: -332.0848465055699
+current_time: 56.0 current_cp_idx: 47 segment_start_time: 55.74110000000001 segment_end_time: 56.46020000000001 fraction: 0.3600333750521358 cp1: 48 cp2: 49 pos1: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 pos2: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 x: 23.101218003412463 z: -338.9735087940138
+current_time: 56.333333333333336 current_cp_idx: 46 segment_start_time: 55.594999999999985 segment_end_time: 56.375599999999984 fraction: 0.9458536168759304 cp1: 47 cp2: 48 pos1: x    -17.81859
+z   -329.05265
+Name: 47, dtype: float64 pos2: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 x: 12.563502315149787 z: -334.58048148957795
+current_time: 56.333333333333336 current_cp_idx: 47 segment_start_time: 55.74110000000001 segment_end_time: 56.46020000000001 fraction: 0.8235757660037933 cp1: 48 cp2: 49 pos1: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 pos2: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 x: 34.42922228147808 z: -344.2220999984221
+current_time: 56.666666666666664 current_cp_idx: 47 segment_start_time: 56.375599999999984 segment_end_time: 57.091599999999985 fraction: 0.40651769087525064 cp1: 48 cp2: 49 pos1: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 pos2: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 x: 24.23719723376103 z: -339.49984074538344
+current_time: 56.666666666666664 current_cp_idx: 48 segment_start_time: 56.46020000000001 segment_end_time: 57.336200000000005 fraction: 0.2356925418569148 cp1: 49 cp2: 50 pos1: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 pos2: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 x: 42.903637682379504 z: -347.87580029203883
+current_time: 57.0 current_cp_idx: 47 segment_start_time: 56.375599999999984 segment_end_time: 57.091599999999985 fraction: 0.8720670391061658 cp1: 48 cp2: 49 pos1: x     14.302757
+z   -334.896928
+Name: 48, dtype: float64 pos2: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 x: 35.61424734040481 z: -344.77115629718514
+current_time: 57.0 current_cp_idx: 48 segment_start_time: 56.46020000000001 segment_end_time: 57.336200000000005 fraction: 0.6162100456620936 cp1: 49 cp2: 50 pos1: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 pos2: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 x: 49.62462084781336 z: -350.54949496627023
+current_time: 57.333333333333336 current_cp_idx: 48 segment_start_time: 57.091599999999985 segment_end_time: 57.89309999999998 fraction: 0.30160116448328267 cp1: 49 cp2: 50 pos1: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 pos2: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 x: 44.06776479532185 z: -348.3389052255566
+current_time: 57.333333333333336 current_cp_idx: 48 segment_start_time: 56.46020000000001 segment_end_time: 57.336200000000005 fraction: 0.9967275494672723 cp1: 49 cp2: 50 pos1: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 pos2: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 x: 56.34560401324721 z: -353.2231896405016
+current_time: 57.666666666666664 current_cp_idx: 48 segment_start_time: 57.091599999999985 segment_end_time: 57.89309999999998 fraction: 0.717488043252253 cp1: 49 cp2: 50 pos1: x     38.740661
+z   -346.219714
+Name: 49, dtype: float64 pos2: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 x: 51.41346816764866 z: -351.2611217378793
+current_time: 57.666666666666664 current_cp_idx: 49 segment_start_time: 57.336200000000005 segment_end_time: 58.19930000000001 fraction: 0.38288340478120503 cp1: 50 cp2: 51 pos1: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 pos2: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 x: 63.69431279654857 z: -351.2866585301663
+current_time: 58.0 current_cp_idx: 49 segment_start_time: 57.89309999999998 segment_end_time: 58.68069999999998 fraction: 0.13572879634334387 cp1: 50 cp2: 51 pos1: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 pos2: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 x: 58.98796728645177 z: -352.55154909349045
+current_time: 58.0 current_cp_idx: 49 segment_start_time: 57.336200000000005 segment_end_time: 58.19930000000001 fraction: 0.769088170548016 cp1: 50 cp2: 51 pos1: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 pos2: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 x: 71.0484668494826 z: -349.31013554798574
+current_time: 58.333333333333336 current_cp_idx: 49 segment_start_time: 57.89309999999998 segment_end_time: 58.68069999999998 fraction: 0.5589554765532686 cp1: 50 cp2: 51 pos1: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 pos2: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 x: 67.04709674694872 z: -350.3855549518957
+current_time: 58.333333333333336 current_cp_idx: 50 segment_start_time: 58.19930000000001 segment_end_time: 58.98960000000001 fraction: 0.16959804293727362 cp1: 51 cp2: 52 pos1: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 pos2: x     80.548343
+z   -340.827465
+Name: 52, dtype: float64 x: 76.31094518794674 z: -346.89015287732025
+current_time: 58.666666666666664 current_cp_idx: 49 segment_start_time: 57.89309999999998 segment_end_time: 58.68069999999998 fraction: 0.9821821567631843 cp1: 50 cp2: 51 pos1: x     56.403404
+z   -353.246183
+Name: 50, dtype: float64 pos2: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 x: 75.1062262074455 z: -348.219560810301
+current_time: 58.666666666666664 current_cp_idx: 50 segment_start_time: 58.19930000000001 segment_end_time: 58.98960000000001 fraction: 0.5913788012990701 cp1: 51 cp2: 52 pos1: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 pos2: x     80.548343
+z   -340.827465
+Name: 52, dtype: float64 x: 78.4632198216567 z: -343.8107706847816
+current_time: 59.0 current_cp_idx: 50 segment_start_time: 58.68069999999998 segment_end_time: 59.54319999999998 fraction: 0.37020289855074867 cp1: 51 cp2: 52 pos1: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 pos2: x     80.548343
+z   -340.827465
+Name: 52, dtype: float64 x: 77.33459724787683 z: -345.4255554345345
+current_time: 59.0 current_cp_idx: 51 segment_start_time: 58.98960000000001 segment_end_time: 59.28420000000001 fraction: 0.03530210454850604 cp1: 52 cp2: 53 pos1: x     80.548343
+z   -340.827465
+Name: 52, dtype: float64 pos2: x     84.563670
+z   -322.406832
+Name: 53, dtype: float64 x: 80.69009296577602 z: -340.17717810673236
+current_time: 59.333333333333336 current_cp_idx: 50 segment_start_time: 58.68069999999998 segment_end_time: 59.54319999999998 fraction: 0.7566763285024435 cp1: 51 cp2: 52 pos1: x     75.445516
+z   -348.128372
+Name: 51, dtype: float64 pos2: x     80.548343
+z   -340.827465
+Name: 52, dtype: float64 x: 79.30670466007513 z: -342.6039487716205
+current_time: 59.333333333333336 current_cp_idx: 52 segment_start_time: 59.28420000000001 segment_end_time: 60.00060000000001 fraction: 0.06858365903590595 cp1: 53 cp2: 54 pos1: x     84.563670
+z   -322.406832
+Name: 53, dtype: float64 pos2: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 x: 85.95539036238372 z: -321.27405229775815
+current_time: 59.666666666666664 current_cp_idx: 51 segment_start_time: 59.54319999999998 segment_end_time: 59.875299999999974 fraction: 0.37177556960761204 cp1: 52 cp2: 53 pos1: x     80.548343
+z   -340.827465
+Name: 52, dtype: float64 pos2: x     84.563670
+z   -322.406832
+Name: 53, dtype: float64 x: 82.04114381594644 z: -333.97912391263685
+current_time: 59.666666666666664 current_cp_idx: 52 segment_start_time: 59.28420000000001 segment_end_time: 60.00060000000001 fraction: 0.5338730690489274 cp1: 53 cp2: 54 pos1: x     84.563670
+z   -322.406832
+Name: 53, dtype: float64 pos2: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 x: 95.39718336303498 z: -313.58897781796117
+current_time: 60.0 current_cp_idx: 52 segment_start_time: 59.875299999999974 segment_end_time: 60.56269999999997 fraction: 0.1814082048298315 cp1: 53 cp2: 54 pos1: x     84.563670
+z   -322.406832
+Name: 53, dtype: float64 pos2: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 x: 88.24486006415263 z: -319.41055611900066
+current_time: 60.0 current_cp_idx: 52 segment_start_time: 59.28420000000001 segment_end_time: 60.00060000000001 fraction: 0.9991624790619587 cp1: 53 cp2: 54 pos1: x     84.563670
+z   -322.406832
+Name: 53, dtype: float64 pos2: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 x: 104.83897636368646 z: -305.90390333816396
+current_time: 60.333333333333336 current_cp_idx: 52 segment_start_time: 59.875299999999974 segment_end_time: 60.56269999999997 fraction: 0.6663272233537438 cp1: 53 cp2: 54 pos1: x     84.563670
+z   -322.406832
+Name: 53, dtype: float64 pos2: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 x: 98.08498299936757 z: -311.4012640658632
+current_time: 60.333333333333336 current_cp_idx: 53 segment_start_time: 60.00060000000001 segment_end_time: 60.89050000000001 fraction: 0.373899689103634 cp1: 54 cp2: 55 pos1: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 pos2: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 x: 118.97644455596676 z: -303.83405569837197
+current_time: 60.666666666666664 current_cp_idx: 53 segment_start_time: 60.56269999999997 segment_end_time: 61.21799999999997 fraction: 0.15865506892521544 cp1: 54 cp2: 55 pos1: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 pos2: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 x: 110.8476444295175 z: -305.01765139064895
+current_time: 60.666666666666664 current_cp_idx: 53 segment_start_time: 60.00060000000001 segment_end_time: 60.89050000000001 fraction: 0.7484736112671688 cp1: 54 cp2: 55 pos1: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 pos2: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 x: 133.12238020501408 z: -301.7743336930343
+current_time: 61.0 current_cp_idx: 53 segment_start_time: 60.56269999999997 segment_end_time: 61.21799999999997 fraction: 0.6673279414009323 cp1: 54 cp2: 55 pos1: x    104.855972
+z   -305.890070
+Name: 54, dtype: float64 pos2: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 x: 130.0578811670232 z: -302.2205407351476
+current_time: 61.0 current_cp_idx: 54 segment_start_time: 60.89050000000001 segment_end_time: 62.01890000000001 fraction: 0.09704005671746722 cp1: 55 cp2: 56 pos1: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 pos2: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 x: 144.05587914932042 z: -300.3232806525396
+current_time: 61.333333333333336 current_cp_idx: 54 segment_start_time: 61.21799999999997 segment_end_time: 62.27149999999997 fraction: 0.10947634867903915 cp1: 55 cp2: 56 pos1: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 pos2: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 x: 144.2397197268191 z: -300.31457247048075
+current_time: 61.333333333333336 current_cp_idx: 54 segment_start_time: 60.89050000000001 segment_end_time: 62.01890000000001 fraction: 0.3924435779274424 cp1: 55 cp2: 56 pos1: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 pos2: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 x: 148.42270763020488 z: -300.1164322083679
+current_time: 61.666666666666664 current_cp_idx: 54 segment_start_time: 61.21799999999997 segment_end_time: 62.27149999999997 fraction: 0.42588198069928473 cp1: 55 cp2: 56 pos1: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 pos2: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 x: 148.91701375418495 z: -300.093017857853
+current_time: 61.666666666666664 current_cp_idx: 54 segment_start_time: 60.89050000000001 segment_end_time: 62.01890000000001 fraction: 0.6878470991374112 cp1: 55 cp2: 56 pos1: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 pos2: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 x: 152.78953611108926 z: -299.9095837641962
+current_time: 62.0 current_cp_idx: 54 segment_start_time: 61.21799999999997 segment_end_time: 62.27149999999997 fraction: 0.742287612719537 cp1: 55 cp2: 56 pos1: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 pos2: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 x: 153.59430778155092 z: -299.87146324522524
+current_time: 62.0 current_cp_idx: 54 segment_start_time: 60.89050000000001 segment_end_time: 62.01890000000001 fraction: 0.9832506203473863 cp1: 55 cp2: 56 pos1: x    142.621376
+z   -300.391230
+Name: 55, dtype: float64 pos2: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 x: 157.15636459197373 z: -299.70273532002454
+current_time: 62.333333333333336 current_cp_idx: 55 segment_start_time: 62.27149999999997 segment_end_time: 62.64969999999997 fraction: 0.16349374228812297 cp1: 56 cp2: 57 pos1: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 pos2: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 x: 163.8287615583938 z: -299.8641551545221
+current_time: 62.333333333333336 current_cp_idx: 55 segment_start_time: 62.01890000000001 segment_end_time: 62.40850000000001 fraction: 0.807067077344264 cp1: 56 cp2: 57 pos1: x    157.403964
+z   -299.691007
+Name: 56, dtype: float64 pos2: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 x: 189.11920071468177 z: -300.54573186311154
+current_time: 62.666666666666664 current_cp_idx: 56 segment_start_time: 62.64969999999997 segment_end_time: 63.575599999999966 fraction: 0.0183245130863992 cp1: 57 cp2: 58 pos1: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 pos2: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 x: 197.30434913185312 z: -300.57948720210464
+current_time: 62.666666666666664 current_cp_idx: 56 segment_start_time: 62.40850000000001 segment_end_time: 63.35300000000001 fraction: 0.2733368625374845 cp1: 57 cp2: 58 pos1: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 pos2: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 x: 205.70268210975354 z: -298.20575132520406
+current_time: 63.0 current_cp_idx: 56 segment_start_time: 62.64969999999997 segment_end_time: 63.575599999999966 fraction: 0.3783345933686502 cp1: 57 cp2: 58 pos1: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 pos2: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 x: 209.16057702089088 z: -297.2283991255809
+current_time: 63.0 current_cp_idx: 56 segment_start_time: 62.40850000000001 segment_end_time: 63.35300000000001 fraction: 0.6262572789835792 cp1: 57 cp2: 58 pos1: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 pos2: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 x: 217.32542578625973 z: -294.9206560895732
+current_time: 63.333333333333336 current_cp_idx: 56 segment_start_time: 62.64969999999997 segment_end_time: 63.575599999999966 fraction: 0.7383446736509012 cp1: 57 cp2: 58 pos1: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 pos2: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 x: 221.01680490992868 z: -293.8773110490571
+current_time: 63.333333333333336 current_cp_idx: 56 segment_start_time: 62.40850000000001 segment_end_time: 63.35300000000001 fraction: 0.9791776954296739 cp1: 57 cp2: 58 pos1: x    196.700867
+z   -300.750058
+Name: 57, dtype: float64 pos2: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 x: 228.94816946276592 z: -291.6355608539423
+current_time: 63.666666666666664 current_cp_idx: 57 segment_start_time: 63.575599999999966 segment_end_time: 64.35649999999997 fraction: 0.11661757800832127 cp1: 58 cp2: 59 pos1: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 pos2: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 x: 234.22858055122992 z: -289.48939795639865
+current_time: 63.666666666666664 current_cp_idx: 57 segment_start_time: 63.35300000000001 segment_end_time: 64.10640000000001 fraction: 0.41633483762497475 cp1: 58 cp2: 59 pos1: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 pos2: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 x: 246.03727773436376 z: -284.4717094776826
+current_time: 64.0 current_cp_idx: 57 segment_start_time: 63.575599999999966 segment_end_time: 64.35649999999997 fraction: 0.543475477013744 cp1: 58 cp2: 59 pos1: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 pos2: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 x: 251.04654984679493 z: -282.3431963508324
+current_time: 64.0 current_cp_idx: 57 segment_start_time: 63.35300000000001 segment_end_time: 64.10640000000001 fraction: 0.8587735598619486 cp1: 58 cp2: 59 pos1: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 pos2: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 x: 263.46912299970325 z: -277.0646629767711
+current_time: 64.33333333333333 current_cp_idx: 57 segment_start_time: 63.575599999999966 segment_end_time: 64.35649999999997 fraction: 0.9703333760191576 cp1: 58 cp2: 59 pos1: x    229.633911
+z   -291.441740
+Name: 58, dtype: float64 pos2: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 x: 267.86451914235954 z: -275.1969947452663
+current_time: 64.33333333333333 current_cp_idx: 58 segment_start_time: 64.10640000000001 segment_end_time: 65.0211 fraction: 0.24809591487189428 cp1: 59 cp2: 60 pos1: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 pos2: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 x: 275.51856793811834 z: -270.49478195636965
+current_time: 64.66666666666667 current_cp_idx: 58 segment_start_time: 64.35649999999997 segment_end_time: 65.28729999999997 fraction: 0.3332258988683941 cp1: 59 cp2: 60 pos1: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 pos2: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 x: 277.7438563573819 z: -269.05171685921255
+current_time: 64.66666666666667 current_cp_idx: 58 segment_start_time: 64.10640000000001 segment_end_time: 65.0211 fraction: 0.6125141212054945 cp1: 59 cp2: 60 pos1: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 pos2: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 x: 285.0444197737806 z: -264.3174144808838
+current_time: 65.0 current_cp_idx: 58 segment_start_time: 64.35649999999997 segment_end_time: 65.28729999999997 fraction: 0.6913407821229351 cp1: 59 cp2: 60 pos1: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 pos2: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 x: 287.1049400209829 z: -262.98119899304737
+current_time: 65.0 current_cp_idx: 58 segment_start_time: 64.10640000000001 segment_end_time: 65.0211 fraction: 0.9769323275390792 cp1: 59 cp2: 60 pos1: x    269.033368
+z   -274.700334
+Name: 59, dtype: float64 pos2: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 x: 294.5702716094425 z: -258.14004700539834
+current_time: 65.33333333333333 current_cp_idx: 59 segment_start_time: 65.28729999999997 segment_end_time: 66.24059999999997 fraction: 0.0482884016923898 cp1: 60 cp2: 61 pos1: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 pos2: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 x: 295.59428885430964 z: -256.6987570769511
+current_time: 65.33333333333333 current_cp_idx: 59 segment_start_time: 65.0211 segment_end_time: 65.8208 fraction: 0.39043808094701005 cp1: 60 cp2: 61 pos1: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 pos2: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 x: 298.5775220164371 z: -249.25707361004982
+current_time: 65.66666666666667 current_cp_idx: 59 segment_start_time: 65.28729999999997 segment_end_time: 66.24059999999997 fraction: 0.3979509773069322 cp1: 60 cp2: 61 pos1: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 pos2: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 x: 298.64302762092393 z: -249.09366969644108
+current_time: 65.66666666666667 current_cp_idx: 59 segment_start_time: 65.0211 segment_end_time: 65.8208 fraction: 0.8072610562294187 cp1: 60 cp2: 61 pos1: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 pos2: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 x: 302.2118382177794 z: -240.19126168077608
+current_time: 66.0 current_cp_idx: 59 segment_start_time: 65.28729999999997 segment_end_time: 66.24059999999997 fraction: 0.7476135529214597 cp1: 60 cp2: 61 pos1: x    295.173258
+z   -257.749020
+Name: 60, dtype: float64 pos2: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 x: 301.6917663875381 z: -241.48858231593135
+current_time: 66.0 current_cp_idx: 60 segment_start_time: 65.8208 segment_end_time: 66.4337 fraction: 0.2923804862130781 cp1: 61 cp2: 62 pos1: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 pos2: x    301.29945
+z   -216.48375
+Name: 62, dtype: float64 x: 303.13423382753916 z: -230.29328464205875
+current_time: 66.33333333333333 current_cp_idx: 60 segment_start_time: 66.24059999999997 segment_end_time: 66.96129999999997 fraction: 0.12867119929701296 cp1: 61 cp2: 62 pos1: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 pos2: x    301.29945
+z   -216.48375
+Name: 62, dtype: float64 x: 303.5587149875401 z: -233.48814999673988
+current_time: 66.33333333333333 current_cp_idx: 60 segment_start_time: 65.8208 segment_end_time: 66.4337 fraction: 0.8362429977701521 cp1: 61 cp2: 62 pos1: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 pos2: x    301.29945
+z   -216.48375
+Name: 62, dtype: float64 x: 301.72405488084854 z: -219.6795465419446
+current_time: 66.66666666666667 current_cp_idx: 60 segment_start_time: 66.24059999999997 segment_end_time: 66.96129999999997 fraction: 0.5911844965543263 cp1: 61 cp2: 62 pos1: x    303.892346
+z   -235.999230
+Name: 61, dtype: float64 pos2: x    301.29945
+z   -216.48375
+Name: 62, dtype: float64 x: 302.3594660955924 z: -224.46198088121295
+current_time: 66.66666666666667 current_cp_idx: 61 segment_start_time: 66.4337 segment_end_time: 66.9822 fraction: 0.42473412336676003 cp1: 62 cp2: 63 pos1: x    301.29945
+z   -216.48375
+Name: 62, dtype: float64 pos2: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 x: 295.55989037070793 z: -194.2955969219081
+current_time: 67.0 current_cp_idx: 61 segment_start_time: 66.96129999999997 segment_end_time: 67.54479999999997 fraction: 0.06632390745507129 cp1: 62 cp2: 63 pos1: x    301.29945
+z   -216.48375
+Name: 62, dtype: float64 pos2: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 x: 300.40319514138736 z: -213.01898244215633
+current_time: 67.0 current_cp_idx: 62 segment_start_time: 66.9822 segment_end_time: 68.2959 fraction: 0.013549516632407764 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 287.61394038593295 z: -163.54851034102177
+current_time: 67.33333333333333 current_cp_idx: 61 segment_start_time: 66.96129999999997 segment_end_time: 67.54479999999997 fraction: 0.6375892602114177 cp1: 62 cp2: 63 pos1: x    301.29945
+z   -216.48375
+Name: 62, dtype: float64 pos2: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 x: 292.68351504998503 z: -183.1760232876295
+current_time: 67.33333333333333 current_cp_idx: 62 segment_start_time: 66.9822 segment_end_time: 68.2959 fraction: 0.26728578315697904 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 284.38904124609894 z: -150.53091373093847
+current_time: 67.66666666666667 current_cp_idx: 62 segment_start_time: 67.54479999999997 segment_end_time: 68.88379999999997 fraction: 0.09101319392584382 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 286.6294041598204 z: -159.57434095344638
+current_time: 67.66666666666667 current_cp_idx: 62 segment_start_time: 66.9822 segment_end_time: 68.2959 fraction: 0.5210220496815612 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 281.16414210626476 z: -137.51331712085457
+current_time: 68.0 current_cp_idx: 62 segment_start_time: 67.54479999999997 segment_end_time: 68.88379999999997 fraction: 0.3399551904406526 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 283.46543851381597 z: -146.80270789394942
+current_time: 68.0 current_cp_idx: 62 segment_start_time: 66.9822 segment_end_time: 68.2959 fraction: 0.7747583162061324 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 277.93924296643075 z: -124.49572051077125
+current_time: 68.33333333333333 current_cp_idx: 62 segment_start_time: 67.54479999999997 segment_end_time: 68.88379999999997 fraction: 0.5888971869554613 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 280.3014728678115 z: -134.03107483445245
+current_time: 68.33333333333333 current_cp_idx: 63 segment_start_time: 68.2959 segment_end_time: 69.4637 fraction: 0.03205457555516822 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 274.74495792230414 z: -111.54848443012531
+current_time: 68.66666666666667 current_cp_idx: 62 segment_start_time: 67.54479999999997 segment_end_time: 68.88379999999997 fraction: 0.8378391834702807 cp1: 63 cp2: 64 pos1: x    287.78615
+z   -164.24365
+Name: 63, dtype: float64 pos2: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 x: 277.13750722180697 z: -121.25944177495492
+current_time: 68.66666666666667 current_cp_idx: 63 segment_start_time: 68.2959 segment_end_time: 69.4637 fraction: 0.31749157960838187 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 271.7926687175315 z: -99.15742859864696
+current_time: 69.0 current_cp_idx: 63 segment_start_time: 68.88379999999997 segment_end_time: 70.07499999999996 fraction: 0.09754869039626865 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 274.06754901779686 z: -108.7053308722284
+current_time: 69.0 current_cp_idx: 63 segment_start_time: 68.2959 segment_end_time: 69.4637 fraction: 0.6029285836615833 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 268.84037951275906 z: -86.76637276716914
+current_time: 69.33333333333333 current_cp_idx: 63 segment_start_time: 68.88379999999997 segment_end_time: 70.07499999999996 fraction: 0.37737855383929253 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 271.1732547487125 z: -96.55768564052939
+current_time: 69.33333333333333 current_cp_idx: 63 segment_start_time: 68.2959 segment_end_time: 69.4637 fraction: 0.8883655877147848 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 265.8880903079866 z: -74.37531693569133
+current_time: 69.66666666666667 current_cp_idx: 63 segment_start_time: 68.88379999999997 segment_end_time: 70.07499999999996 fraction: 0.6572084172823283 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 268.27896047962804 z: -84.41004040882987
+current_time: 69.66666666666667 current_cp_idx: 64 segment_start_time: 69.4637 segment_end_time: 70.3879 fraction: 0.21961335930174067 cp1: 65 cp2: 66 pos1: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 pos2: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 x: 262.83885652997185 z: -61.68372711750695
+current_time: 70.0 current_cp_idx: 63 segment_start_time: 68.88379999999997 segment_end_time: 70.07499999999996 fraction: 0.9370382807253521 cp1: 64 cp2: 65 pos1: x    275.0765
+z   -112.9400
+Name: 64, dtype: float64 pos2: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 x: 265.3846662105436 z: -72.26239517713086
+current_time: 70.0 current_cp_idx: 64 segment_start_time: 69.4637 segment_end_time: 70.3879 fraction: 0.5802856524561758 cp1: 65 cp2: 66 pos1: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 pos2: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 x: 259.72735469054317 z: -48.799102577364295
+current_time: 70.33333333333333 current_cp_idx: 64 segment_start_time: 70.07499999999996 segment_end_time: 71.02049999999996 fraction: 0.2732240437158853 cp1: 65 cp2: 66 pos1: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 pos2: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 x: 262.37635983606526 z: -59.76854385245764
+current_time: 70.33333333333333 current_cp_idx: 64 segment_start_time: 69.4637 segment_end_time: 70.3879 fraction: 0.940957945610611 cp1: 65 cp2: 66 pos1: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 pos2: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 x: 256.61585285111454 z: -35.914478037221635
+current_time: 70.66666666666667 current_cp_idx: 64 segment_start_time: 70.07499999999996 segment_end_time: 71.02049999999996 fraction: 0.625771196897635 cp1: 65 cp2: 66 pos1: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 pos2: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 x: 259.3349531729239 z: -47.1741810814366
+current_time: 70.66666666666667 current_cp_idx: 65 segment_start_time: 70.3879 segment_end_time: 71.1391 fraction: 0.3710951366702217 cp1: 66 cp2: 67 pos1: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 pos2: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 x: 255.97325829117855 z: -19.68741253882657
+current_time: 71.0 current_cp_idx: 64 segment_start_time: 70.07499999999996 segment_end_time: 71.02049999999996 fraction: 0.9783183500793697 cp1: 65 cp2: 66 pos1: x    264.733450
+z    -69.529175
+Name: 65, dtype: float64 pos2: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 x: 256.29354650978274 z: -34.5798183104161
+current_time: 71.0 current_cp_idx: 65 segment_start_time: 70.3879 segment_end_time: 71.1391 fraction: 0.8148296059637917 cp1: 66 cp2: 67 pos1: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 pos2: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 x: 255.8139354299787 z: -2.80608710396697
+current_time: 71.33333333333333 current_cp_idx: 65 segment_start_time: 71.02049999999996 segment_end_time: 71.79159999999996 fraction: 0.40569748843648185 cp1: 66 cp2: 67 pos1: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 pos2: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 x: 255.96083431677687 z: -18.37100914580715
+current_time: 71.33333333333333 current_cp_idx: 66 segment_start_time: 71.1391 segment_end_time: 71.978 fraction: 0.23153335717407386 cp1: 67 cp2: 68 pos1: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 pos2: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 x: 260.33581599912577 z: 8.014096930603515
+current_time: 71.66666666666667 current_cp_idx: 65 segment_start_time: 71.02049999999996 segment_end_time: 71.79159999999996 fraction: 0.8379803743570382 cp1: 66 cp2: 67 pos1: x    256.106500
+z    -33.805265
+Name: 66, dtype: float64 pos2: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 x: 255.8056231465871 z: -1.925344943152556
+current_time: 71.66666666666667 current_cp_idx: 66 segment_start_time: 71.1391 segment_end_time: 71.978 fraction: 0.628879087694213 cp1: 67 cp2: 68 pos1: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 pos2: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 x: 268.21013554456255 z: 14.49360084445918
+current_time: 72.0 current_cp_idx: 66 segment_start_time: 71.79159999999996 segment_end_time: 72.62369999999996 fraction: 0.2504506669871901 cp1: 67 cp2: 68 pos1: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 pos2: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 x: 260.7107060028852 z: 8.322580886913432
+current_time: 72.0 current_cp_idx: 67 segment_start_time: 71.978 segment_end_time: 72.6873 fraction: 0.031016495136057528 cp1: 68 cp2: 69 pos1: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 pos2: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 x: 276.9687798886229 z: 21.196008247215733
+current_time: 72.33333333333333 current_cp_idx: 66 segment_start_time: 71.79159999999996 segment_end_time: 72.62369999999996 fraction: 0.6510435444458247 cp1: 67 cp2: 68 pos1: x    255.74745
+z      4.23849
+Name: 67, dtype: float64 pos2: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 x: 268.64937523334623 z: 14.85503592036287
+current_time: 72.33333333333333 current_cp_idx: 67 segment_start_time: 71.978 segment_end_time: 72.6873 fraction: 0.5009633911368034 cp1: 68 cp2: 69 pos1: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 pos2: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 x: 298.24196001926794 z: 31.052837750481736
+current_time: 72.66666666666667 current_cp_idx: 67 segment_start_time: 72.62369999999996 segment_end_time: 73.23589999999996 fraction: 0.07018403571825296 cp1: 68 cp2: 69 pos1: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 pos2: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 x: 278.74178478166533 z: 22.017521854107052
+current_time: 72.66666666666667 current_cp_idx: 67 segment_start_time: 71.978 segment_end_time: 72.6873 fraction: 0.9709102871375694 cp1: 68 cp2: 69 pos1: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 pos2: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 x: 319.5151401499138 z: 40.90966725374816
+current_time: 73.0 current_cp_idx: 67 segment_start_time: 72.62369999999996 segment_end_time: 73.23589999999996 fraction: 0.6146684090167303 cp1: 68 cp2: 69 pos1: x    275.564750
+z     20.545458
+Name: 68, dtype: float64 pos2: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 x: 303.38906780464214 z: 33.43772630798903
+current_time: 73.0 current_cp_idx: 68 segment_start_time: 72.6873 segment_end_time: 74.0547 fraction: 0.22868217054263992 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 332.1652897286824 z: 47.045367674418706
+current_time: 73.33333333333333 current_cp_idx: 68 segment_start_time: 73.23589999999996 segment_end_time: 74.39039999999996 fraction: 0.08439439872964093 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 325.0144815446818 z: 43.55899563057678
+current_time: 73.33333333333333 current_cp_idx: 68 segment_start_time: 72.6873 segment_end_time: 74.0547 fraction: 0.47245380527521835 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 344.2464534944664 z: 52.935531488957146
+current_time: 73.66666666666667 current_cp_idx: 68 segment_start_time: 73.23589999999996 segment_end_time: 74.39039999999996 fraction: 0.37311967662772944 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 339.3235186458805 z: 50.53535769207547
+current_time: 73.66666666666667 current_cp_idx: 68 segment_start_time: 72.6873 segment_end_time: 74.0547 fraction: 0.7162254400078072 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 356.3276172602509 z: 58.82569530349584
+current_time: 74.0 current_cp_idx: 68 segment_start_time: 73.23589999999996 segment_end_time: 74.39039999999996 fraction: 0.6618449545258056 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 353.63255574707847 z: 57.511719753573864
+current_time: 74.0 current_cp_idx: 68 segment_start_time: 72.6873 segment_end_time: 74.0547 fraction: 0.9599970747403856 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 368.40878102603494 z: 64.71585911803427
+current_time: 74.33333333333333 current_cp_idx: 68 segment_start_time: 73.23589999999996 segment_end_time: 74.39039999999996 fraction: 0.9505702324238818 cp1: 69 cp2: 70 pos1: x    320.831950
+z     41.519805
+Name: 69, dtype: float64 pos2: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 x: 367.9415928482765 z: 64.48808181507226
+current_time: 74.33333333333333 current_cp_idx: 69 segment_start_time: 74.0547 segment_end_time: 75.45349999999999 fraction: 0.19919454770755854 cp1: 70 cp2: 71 pos1: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 pos2: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 x: 375.8805192949347 z: 68.4802999283781
+current_time: 74.66666666666667 current_cp_idx: 69 segment_start_time: 74.39039999999996 segment_end_time: 75.64129999999996 fraction: 0.2208543182242498 cp1: 70 cp2: 71 pos1: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 pos2: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 x: 376.47739923774634 z: 68.78453070669408
+current_time: 74.66666666666667 current_cp_idx: 69 segment_start_time: 74.0547 segment_end_time: 75.45349999999999 fraction: 0.4374940425126373 cp1: 70 cp2: 71 pos1: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 pos2: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 x: 382.4473565899878 z: 71.82742868585892
+current_time: 75.0 current_cp_idx: 69 segment_start_time: 74.39039999999996 segment_end_time: 75.64129999999996 fraction: 0.4873291230314512 cp1: 70 cp2: 71 pos1: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 pos2: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 x: 383.82066569255477 z: 72.52740680067755
+current_time: 75.0 current_cp_idx: 69 segment_start_time: 74.0547 segment_end_time: 75.45349999999999 fraction: 0.6757935373177059 cp1: 70 cp2: 71 pos1: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 pos2: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 x: 389.01419388504064 z: 75.17455744333958
+current_time: 75.33333333333333 current_cp_idx: 69 segment_start_time: 74.39039999999996 segment_end_time: 75.64129999999996 fraction: 0.7538039278386526 cp1: 70 cp2: 71 pos1: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 pos2: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 x: 391.1639321473632 z: 76.27028289466102
+current_time: 75.33333333333333 current_cp_idx: 69 segment_start_time: 74.0547 segment_end_time: 75.45349999999999 fraction: 0.9140930321227745 cp1: 70 cp2: 71 pos1: x    370.391300
+z     65.682435
+Name: 70, dtype: float64 pos2: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 x: 395.5810311800935 z: 78.52168620082024
+current_time: 75.66666666666667 current_cp_idx: 70 segment_start_time: 75.64129999999996 segment_end_time: 76.29369999999996 fraction: 0.038882076435795436 cp1: 71 cp2: 72 pos1: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 pos2: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 x: 399.1173037786724 z: 80.26682981900001
+current_time: 75.66666666666667 current_cp_idx: 70 segment_start_time: 75.45349999999999 segment_end_time: 76.16989999999998 fraction: 0.29755257770335336 cp1: 71 cp2: 72 pos1: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 pos2: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 x: 406.89382076838706 z: 83.84932939383776
+current_time: 76.0 current_cp_idx: 70 segment_start_time: 75.64129999999996 segment_end_time: 76.29369999999996 fraction: 0.5498160637646252 cp1: 71 cp2: 72 pos1: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 pos2: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 x: 414.47772104161925 z: 87.34309395969683
+current_time: 76.0 current_cp_idx: 70 segment_start_time: 75.45349999999999 segment_end_time: 76.16989999999998 fraction: 0.7628419877163793 cp1: 71 cp2: 72 pos1: x    397.948376
+z     79.728326
+Name: 71, dtype: float64 pos2: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 x: 420.88200645005463 z: 90.29343146724737
+current_time: 76.33333333333333 current_cp_idx: 71 segment_start_time: 76.29369999999996 segment_end_time: 77.02969999999996 fraction: 0.053849637681209 cp1: 72 cp2: 73 pos1: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 pos2: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 x: 429.0702743403498 z: 94.10566381063472
+current_time: 76.33333333333333 current_cp_idx: 71 segment_start_time: 76.16989999999998 segment_end_time: 76.90809999999999 fraction: 0.22139438273278658 cp1: 72 cp2: 73 pos1: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 pos2: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 x: 432.3635997165088 z: 95.74743762028774
+current_time: 76.66666666666667 current_cp_idx: 71 segment_start_time: 76.29369999999996 segment_end_time: 77.02969999999996 fraction: 0.506748188405857 cp1: 72 cp2: 73 pos1: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 pos2: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 x: 437.9726263029134 z: 98.54362442098176
+current_time: 76.66666666666667 current_cp_idx: 71 segment_start_time: 76.16989999999998 segment_end_time: 76.90809999999999 fraction: 0.6729431951594189 cp1: 72 cp2: 73 pos1: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 pos2: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 x: 441.2394206924595 z: 100.17217212206964
+current_time: 77.0 current_cp_idx: 71 segment_start_time: 76.29369999999996 segment_end_time: 77.02969999999996 fraction: 0.9596467391304856 cp1: 72 cp2: 73 pos1: x    428.011785
+z     93.577990
+Name: 72, dtype: float64 pos2: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 x: 446.8749782654766 z: 102.98158503132858
+current_time: 77.0 current_cp_idx: 72 segment_start_time: 76.90809999999999 segment_end_time: 77.48709999999998 fraction: 0.1587219343696212 cp1: 73 cp2: 74 pos1: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 pos2: x    459.214188
+z    109.222107
+Name: 74, dtype: float64 x: 449.50078285965805 z: 104.30475292255716
+current_time: 77.33333333333333 current_cp_idx: 72 segment_start_time: 77.02969999999996 segment_end_time: 77.67189999999997 fraction: 0.4728018270528879 cp1: 73 cp2: 74 pos1: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 pos2: x    459.214188
+z    109.222107
+Name: 74, dtype: float64 x: 453.1271524272632 z: 106.14058134733486
+current_time: 77.33333333333333 current_cp_idx: 72 segment_start_time: 76.90809999999999 segment_end_time: 77.48709999999998 fraction: 0.7344271732872936 cp1: 73 cp2: 74 pos1: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 pos2: x    459.214188
+z    109.222107
+Name: 74, dtype: float64 x: 456.14788127938164 z: 107.66980769530672
+current_time: 77.66666666666667 current_cp_idx: 72 segment_start_time: 77.02969999999996 segment_end_time: 77.67189999999997 fraction: 0.9918509290979541 cp1: 73 cp2: 74 pos1: x    447.668178
+z    103.377007
+Name: 73, dtype: float64 pos2: x    459.214188
+z    109.222107
+Name: 74, dtype: float64 x: 459.12009852664045 z: 109.17447532650341
+current_time: 77.66666666666667 current_cp_idx: 73 segment_start_time: 77.48709999999998 segment_end_time: 77.89989999999999 fraction: 0.4349967700258858 cp1: 74 cp2: 75 pos1: x    459.214188
+z    109.222107
+Name: 74, dtype: float64 pos2: x    472.173601
+z    121.773109
+Name: 75, dtype: float64 x: 464.85149064973695 z: 114.68175257968745
+current_time: 78.0 current_cp_idx: 73 segment_start_time: 77.67189999999997 segment_end_time: 78.14409999999997 fraction: 0.6948326980093903 cp1: 74 cp2: 75 pos1: x    459.214188
+z    109.222107
+Name: 74, dtype: float64 pos2: x    472.173601
+z    121.773109
+Name: 75, dtype: float64 x: 468.21881179626195 z: 117.9429537043228
+current_time: 78.0 current_cp_idx: 74 segment_start_time: 77.89989999999999 segment_end_time: 78.65249999999999 fraction: 0.1330055806537493 cp1: 75 cp2: 76 pos1: x    472.173601
+z    121.773109
+Name: 75, dtype: float64 pos2: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 x: 471.99151344693814 z: 122.90770780287336
+current_time: 78.33333333333333 current_cp_idx: 74 segment_start_time: 78.14409999999997 segment_end_time: 79.01439999999997 fraction: 0.2174346010954411 cp1: 75 cp2: 76 pos1: x    472.173601
+z    121.773109
+Name: 75, dtype: float64 pos2: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 x: 471.87592830176027 z: 123.62792621298387
+current_time: 78.33333333333333 current_cp_idx: 74 segment_start_time: 77.89989999999999 segment_end_time: 78.65249999999999 fraction: 0.5759146071397021 cp1: 75 cp2: 76 pos1: x    472.173601
+z    121.773109
+Name: 75, dtype: float64 pos2: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 x: 471.3851614620502 z: 126.68592568590103
+current_time: 78.66666666666667 current_cp_idx: 74 segment_start_time: 78.14409999999997 segment_end_time: 79.01439999999997 fraction: 0.6004442912406125 cp1: 75 cp2: 76 pos1: x    472.173601
+z    121.773109
+Name: 75, dtype: float64 pos2: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 x: 471.35157979684624 z: 126.89517518318581
+current_time: 78.66666666666667 current_cp_idx: 75 segment_start_time: 78.65249999999999 segment_end_time: 79.08919999999999 fraction: 0.032440271735017505 cp1: 76 cp2: 77 pos1: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 pos2: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 x: 470.31124538502587 z: 130.7017351048407
+current_time: 79.0 current_cp_idx: 74 segment_start_time: 78.14409999999997 segment_end_time: 79.01439999999997 fraction: 0.9834539813857677 cp1: 75 cp2: 76 pos1: x    472.173601
+z    121.773109
+Name: 75, dtype: float64 pos2: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 x: 470.8272312919322 z: 130.1624241533876
+current_time: 79.0 current_cp_idx: 75 segment_start_time: 78.65249999999999 segment_end_time: 79.08919999999999 fraction: 0.795740783146346 cp1: 76 cp2: 77 pos1: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 pos2: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 x: 458.7033853498838 z: 140.07034206814103
+current_time: 79.33333333333333 current_cp_idx: 75 segment_start_time: 79.01439999999997 segment_end_time: 79.52389999999997 fraction: 0.6259731763167036 cp1: 76 cp2: 77 pos1: x    470.804579
+z    130.303569
+Name: 76, dtype: float64 pos2: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 x: 461.2851190040849 z: 137.98664638117467
+current_time: 79.33333333333333 current_cp_idx: 76 segment_start_time: 79.08919999999999 segment_end_time: 79.98599999999999 fraction: 0.2722271781147835 cp1: 77 cp2: 78 pos1: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 pos2: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 x: 452.0188280123518 z: 145.4435650870718
+current_time: 79.66666666666667 current_cp_idx: 76 segment_start_time: 79.52389999999997 segment_end_time: 80.56149999999997 fraction: 0.13759316371116284 cp1: 77 cp2: 78 pos1: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 pos2: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 x: 453.78852671845766 z: 144.0260511081735
+current_time: 79.66666666666667 current_cp_idx: 76 segment_start_time: 79.08919999999999 segment_end_time: 79.98599999999999 fraction: 0.643919119833498 cp1: 77 cp2: 78 pos1: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 pos2: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 x: 447.1331180285611 z: 149.35697824320485
+current_time: 80.0 current_cp_idx: 76 segment_start_time: 79.52389999999997 segment_end_time: 80.56149999999997 fraction: 0.45884734001545097 cp1: 77 cp2: 78 pos1: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 pos2: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 x: 449.56579665536657 z: 147.40842284913336
+current_time: 80.0 current_cp_idx: 77 segment_start_time: 79.98599999999999 segment_end_time: 80.6463 fraction: 0.02120248371953637 cp1: 78 cp2: 79 pos1: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 pos2: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 x: 441.75266223728 z: 153.6661927949082
+current_time: 80.33333333333333 current_cp_idx: 76 segment_start_time: 79.52389999999997 segment_end_time: 80.56149999999997 fraction: 0.7801015163197391 cp1: 77 cp2: 78 pos1: x    455.597122
+z    142.577381
+Name: 77, dtype: float64 pos2: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 x: 445.34306659227553 z: 150.79079459009324
+current_time: 80.33333333333333 current_cp_idx: 77 segment_start_time: 79.98599999999999 segment_end_time: 80.6463 fraction: 0.5260235246605106 cp1: 78 cp2: 79 pos1: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 pos2: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 x: 425.08729017038655 z: 167.0034487027124
+current_time: 80.66666666666667 current_cp_idx: 77 segment_start_time: 80.56149999999997 segment_end_time: 81.29409999999997 fraction: 0.14355264355269434 cp1: 78 cp2: 79 pos1: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 pos2: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 x: 437.7135854740318 z: 156.89865590503115
+current_time: 80.66666666666667 current_cp_idx: 78 segment_start_time: 80.6463 segment_end_time: 82.0219 fraction: 0.014805660560246275 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 408.99542628436274 z: 179.88909483846564
+current_time: 81.0 current_cp_idx: 77 segment_start_time: 80.56149999999997 segment_end_time: 81.29409999999997 fraction: 0.5985530985531398 cp1: 78 cp2: 79 pos1: x    442.452608
+z    153.106028
+Name: 78, dtype: float64 pos2: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 x: 422.69291228843286 z: 168.91966337967372
+current_time: 81.0 current_cp_idx: 78 segment_start_time: 80.6463 segment_end_time: 82.0219 fraction: 0.25712416400116456 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 401.7164401564235 z: 185.83502878143585
+current_time: 81.33333333333333 current_cp_idx: 78 segment_start_time: 81.29409999999997 segment_end_time: 82.78799999999997 fraction: 0.026262355802501414 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 408.6512795330572 z: 180.1702155624214
+current_time: 81.33333333333333 current_cp_idx: 78 segment_start_time: 80.6463 segment_end_time: 82.0219 fraction: 0.4994426674420829 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 394.43745402848435 z: 191.7809627244061
+current_time: 81.66666666666667 current_cp_idx: 78 segment_start_time: 81.29409999999997 segment_end_time: 82.78799999999997 fraction: 0.24939197179643915 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 401.94870685912076 z: 185.64529872190346
+current_time: 81.66666666666667 current_cp_idx: 78 segment_start_time: 80.6463 segment_end_time: 82.0219 fraction: 0.7417611708830115 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 387.15846790054485 z: 197.7268966673766
+current_time: 82.0 current_cp_idx: 78 segment_start_time: 81.29409999999997 segment_end_time: 82.78799999999997 fraction: 0.4725215877903674 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 395.24613418518464 z: 191.1203818813853
+current_time: 82.0 current_cp_idx: 78 segment_start_time: 80.6463 segment_end_time: 82.0219 fraction: 0.9840796743239298 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 379.87948177260563 z: 203.67283061034684
+current_time: 82.33333333333333 current_cp_idx: 78 segment_start_time: 81.29409999999997 segment_end_time: 82.78799999999997 fraction: 0.6956512037842957 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 388.54356151124847 z: 196.59546504086714
+current_time: 82.33333333333333 current_cp_idx: 79 segment_start_time: 82.0219 segment_end_time: 83.0919 fraction: 0.291059190031148 cp1: 80 cp2: 81 pos1: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 pos2: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 x: 372.73480014519856 z: 209.44482948421367
+current_time: 82.66666666666667 current_cp_idx: 78 segment_start_time: 81.29409999999997 segment_end_time: 82.78799999999997 fraction: 0.9187808197782333 cp1: 79 cp2: 80 pos1: x    409.440172
+z    179.525798
+Name: 79, dtype: float64 pos2: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 x: 381.840988837312 z: 202.0705482003492
+current_time: 82.66666666666667 current_cp_idx: 79 segment_start_time: 82.0219 segment_end_time: 83.0919 fraction: 0.6025856697819376 cp1: 80 cp2: 81 pos1: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 pos2: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 x: 365.5995628137186 z: 215.20459723955344
+current_time: 83.0 current_cp_idx: 79 segment_start_time: 82.78799999999997 segment_end_time: 83.91939999999997 fraction: 0.1873784691532896 cp1: 80 cp2: 81 pos1: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 pos2: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 x: 375.10951497121994 z: 207.52789172200357
+current_time: 83.0 current_cp_idx: 79 segment_start_time: 82.0219 segment_end_time: 83.0919 fraction: 0.914112149532714 cp1: 80 cp2: 81 pos1: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 pos2: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 x: 358.4643254822389 z: 220.96436499489295
+current_time: 83.33333333333333 current_cp_idx: 79 segment_start_time: 82.78799999999997 segment_end_time: 83.91939999999997 fraction: 0.4819987036709923 cp1: 80 cp2: 81 pos1: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 pos2: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 x: 368.3615001712525 z: 212.9750823691781
+current_time: 83.33333333333333 current_cp_idx: 80 segment_start_time: 83.0919 segment_end_time: 83.842 fraction: 0.3218681953517292 cp1: 81 cp2: 82 pos1: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 pos2: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 x: 349.43659897399976 z: 228.42807146613308
+current_time: 83.66666666666667 current_cp_idx: 79 segment_start_time: 82.78799999999997 segment_end_time: 83.91939999999997 fraction: 0.7766189381887075 cp1: 80 cp2: 81 pos1: x    379.401252
+z    204.063478
+Name: 80, dtype: float64 pos2: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 x: 361.6134853712847 z: 218.42227301635282
+current_time: 83.66666666666667 current_cp_idx: 80 segment_start_time: 83.0919 segment_end_time: 83.842 fraction: 0.7662533884371063 cp1: 81 cp2: 82 pos1: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 pos2: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 x: 339.6885089892553 z: 236.54037092919154
+current_time: 84.0 current_cp_idx: 80 segment_start_time: 83.91939999999997 segment_end_time: 84.69889999999997 fraction: 0.10339961513795068 cp1: 81 cp2: 82 pos1: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 pos2: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 x: 354.2289534716307 z: 224.43990405295176
+current_time: 84.0 current_cp_idx: 81 segment_start_time: 83.842 segment_end_time: 84.5335 fraction: 0.2284887924801159 cp1: 82 cp2: 83 pos1: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 pos2: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 x: 326.200922091827 z: 247.61534550019388
+current_time: 84.33333333333333 current_cp_idx: 80 segment_start_time: 83.91939999999997 segment_end_time: 84.69889999999997 fraction: 0.5310241607868655 cp1: 81 cp2: 82 pos1: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 pos2: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 x: 344.84852717585574 z: 232.24623609559438
+current_time: 84.33333333333333 current_cp_idx: 81 segment_start_time: 83.842 segment_end_time: 84.5335 fraction: 0.7105326584719108 cp1: 82 cp2: 83 pos1: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 pos2: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 x: 308.56359811407856 z: 261.9780143892946
+current_time: 84.66666666666667 current_cp_idx: 80 segment_start_time: 83.91939999999997 segment_end_time: 84.69889999999997 fraction: 0.9586487064357986 cp1: 81 cp2: 82 pos1: x    356.497141
+z    222.552333
+Name: 81, dtype: float64 pos2: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 x: 335.4681008800804 z: 240.05256813823735
+current_time: 84.66666666666667 current_cp_idx: 82 segment_start_time: 84.5335 segment_end_time: 85.6199 fraction: 0.12257609229258842 cp1: 83 cp2: 84 pos1: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 pos2: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 x: 294.81189759555116 z: 273.2139478996092
+current_time: 85.0 current_cp_idx: 81 segment_start_time: 84.69889999999997 segment_end_time: 85.41249999999997 fraction: 0.42194506726462144 cp1: 82 cp2: 83 pos1: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 pos2: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 x: 319.12262230497583 z: 253.3794441959255
+current_time: 85.0 current_cp_idx: 82 segment_start_time: 84.5335 segment_end_time: 85.6199 fraction: 0.4293998527245926 cp1: 83 cp2: 84 pos1: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 pos2: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 x: 286.9007900363803 z: 279.74999506458823
+current_time: 85.33333333333333 current_cp_idx: 81 segment_start_time: 84.69889999999997 segment_end_time: 85.41249999999997 fraction: 0.8890601644245553 cp1: 82 cp2: 83 pos1: x    334.561014
+z    240.807440
+Name: 82, dtype: float64 pos2: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 x: 302.03152150534976 z: 267.29730509392607
+current_time: 85.33333333333333 current_cp_idx: 82 segment_start_time: 84.5335 segment_end_time: 85.6199 fraction: 0.7362236131565968 cp1: 83 cp2: 84 pos1: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 pos2: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 x: 278.98968247720944 z: 286.2860422295673
+current_time: 85.66666666666667 current_cp_idx: 82 segment_start_time: 85.41249999999997 segment_end_time: 86.52579999999996 fraction: 0.2283002485104703 cp1: 83 cp2: 84 pos1: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 pos2: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 x: 292.08591845278653 z: 275.46611399829965
+current_time: 85.66666666666667 current_cp_idx: 83 segment_start_time: 85.6199 segment_end_time: 86.353 fraction: 0.06379302505343147 cp1: 84 cp2: 85 pos1: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 pos2: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 x: 270.7787984505918 z: 293.0144565913067
+current_time: 86.0 current_cp_idx: 82 segment_start_time: 85.41249999999997 segment_end_time: 86.52579999999996 fraction: 0.5277104104913649 cp1: 83 cp2: 84 pos1: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 pos2: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 x: 284.36596223947186 z: 281.84423457679
+current_time: 86.0 current_cp_idx: 83 segment_start_time: 85.6199 segment_end_time: 86.353 fraction: 0.5184831537307356 cp1: 84 cp2: 85 pos1: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 pos2: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 x: 260.7310090136846 z: 300.92161706177455
+current_time: 86.33333333333333 current_cp_idx: 82 segment_start_time: 85.41249999999997 segment_end_time: 86.52579999999996 fraction: 0.8271205724722596 cp1: 83 cp2: 84 pos1: x    297.972385
+z    270.602797
+Name: 83, dtype: float64 pos2: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 x: 276.6460060261572 z: 288.2223551552803
+current_time: 86.33333333333333 current_cp_idx: 83 segment_start_time: 85.6199 segment_end_time: 86.353 fraction: 0.9731732824080398 cp1: 84 cp2: 85 pos1: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 pos2: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 x: 250.6832195767775 z: 308.8287775322424
+current_time: 86.66666666666667 current_cp_idx: 83 segment_start_time: 86.52579999999996 segment_end_time: 87.27469999999997 fraction: 0.1880980994347831 cp1: 84 cp2: 85 pos1: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 pos2: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 x: 268.0318920751307 z: 295.17614893612637
+current_time: 86.66666666666667 current_cp_idx: 84 segment_start_time: 86.353 segment_end_time: 86.9542 fraction: 0.521734309159471 cp1: 85 cp2: 86 pos1: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 pos2: x    234.448985
+z    321.005247
+Name: 86, dtype: float64 x: 241.9297374110073 z: 315.40478116230724
+current_time: 87.0 current_cp_idx: 83 segment_start_time: 86.52579999999996 segment_end_time: 87.27469999999997 fraction: 0.6331953531847175 cp1: 84 cp2: 85 pos1: x    272.188503
+z    291.905082
+Name: 84, dtype: float64 pos2: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 x: 258.196086979395 z: 302.91648722014276
+current_time: 87.33333333333333 current_cp_idx: 84 segment_start_time: 87.27469999999997 segment_end_time: 87.88649999999997 fraction: 0.09583741963609198 cp1: 85 cp2: 86 pos1: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 pos2: x    234.448985
+z    321.005247
+Name: 86, dtype: float64 x: 248.5913671947589 z: 310.41755111446884
+current_time: 87.66666666666667 current_cp_idx: 84 segment_start_time: 87.27469999999997 segment_end_time: 87.88649999999997 fraction: 0.6406777814101056 cp1: 85 cp2: 86 pos1: x    250.0904
+z    309.2953
+Name: 85, dtype: float64 pos2: x    234.448985
+z    321.005247
+Name: 86, dtype: float64 x: 240.06929325933862 z: 316.79760293066164
+current_time: 0.0 | current_cp_idx: 0 | segment_start_time: 0 | segment_end_time: 5.4261 | fraction: 0.0 | cp1: 1 | cp2: 2 | pos1: (x: 194.43355465496, z: 343.99939015968) | pos2: (x: 148.9601427789, z: 368.7975805888) | x: 194.43355465496 | z: 343.99939015968
+current_time: 0.0 | current_cp_idx: 0 | segment_start_time: 0 | segment_end_time: 5.5176 | fraction: 0.0 | cp1: 1 | cp2: 2 | pos1: (x: 194.43355465496, z: 343.99939015968) | pos2: (x: 148.9601427789, z: 368.7975805888) | x: 194.43355465496 | z: 343.99939015968
+current_time: 0.0 | current_cp_idx: 0 | segment_start_time: 0 | segment_end_time: 5.4261 | fraction: 0.0 | cp1: 1 | cp2: 2 | pos1: (x: 194.43355465496, z: 343.99939015968) | pos2: (x: 148.9601427789, z: 368.7975805888) | x: 194.43355465496 | z: 343.99939015968
+current_time: 0.0 | current_cp_idx: 0 | segment_start_time: 0 | segment_end_time: 5.5176 | fraction: 0.0 | cp1: 1 | cp2: 2 | pos1: (x: 194.43355465496, z: 343.99939015968) | pos2: (x: 148.9601427789, z: 368.7975805888) | x: 194.43355465496 | z: 343.99939015968
+current_time: 0.0 | current_cp_idx: 0 | segment_start_time: 0 | segment_end_time: 5.4261 | fraction: 0.0 | cp1: 1 | cp2: 2 | pos1: (x: 194.43355465496, z: 343.99939015968) | pos2: (x: 148.9601427789, z: 368.7975805888) | x: 194.43355465496 | z: 343.99939015968
+current_time: 0.0 | current_cp_idx: 0 | segment_start_time: 0 | segment_end_time: 5.5176 | fraction: 0.0 | cp1: 1 | cp2: 2 | pos1: (x: 194.43355465496, z: 343.99939015968) | pos2: (x: 148.9601427789, z: 368.7975805888) | x: 194.43355465496 | z: 343.99939015968

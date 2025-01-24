@@ -1,0 +1,46 @@
+﻿{
+    "m_formatId": 2856,
+    "m_formatVersion": 3,
+    "m_totalEventCount": 3,
+    "m_maxEventsToRemember": 100,
+    "m_rememberedEventsCount": 2,
+    "m_finishedEventsCount": 2,
+    "m_maxPlayerCount": 100,
+    "m_playerStats": [
+        {
+            "m_statsPlayer": {
+                "name": "cyberpunk_42",
+                "clan": "SDA",
+                "color": {
+                    "data1": 1,
+                    "data2": 1,
+                    "data3": 6
+                },
+                "id": 76561198096169747,
+                "index": 0,
+                "flag": 27
+            },
+            "m_eventStats": [
+                {
+                    "m_rank": 1,
+                    "m_lapRank": 1,
+                    "m_individualPoints": 0,
+                    "m_team": 0,
+                    "m_teamPoints": 0
+                },
+                {
+                    "m_rank": 1,
+                    "m_lapRank": 1,
+                    "m_individualPoints": 0,
+                    "m_team": 0,
+                    "m_teamPoints": 0
+                }
+            ],
+            "m_totalPoints": 0,
+            "m_rank": 1,
+            "m_previousRank": 1,
+            "m_lastPointsForgot": 0
+        }
+    ],
+    "m_teamStats": []
+}

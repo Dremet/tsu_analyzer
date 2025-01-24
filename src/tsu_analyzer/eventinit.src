@@ -1,0 +1,2 @@
+/cmd broadcast_current_times.sh >log 2>&1
+/src event_end_generated.src

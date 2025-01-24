@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "utcStartTimeTicks": 638594271774368630,
+  "utcStartTime": "2024-08-16T17:46:17+00:00",
+  "host": 90200980617766942,
+  "eventType": "Race",
+  "level": {
+    "name": "Zandvoort GP v2.04",
+    "guid": "11penkrdxav3-32dc9vk",
+    "makerId": 76561198096169747,
+    "levelType": "Circuit"
+  },
+  "finishedState": "Finished",
+  "players": [
+    {
+      "player": {
+        "name": "Juquinha",
+        "id": 76561198383156490,
+        "localIndex": 0,
+        "ai": false,
+        "clan": "TD",
+        "flag": "Brazil"
+      },
+      "vehicle": {
+        "name": "AMR Vantage GT3",
+        "guid": "11f0eerx33lb-325fl34"
+      },
+      "startPosition": 1
+    }
+  ],
+  "raceStats": {
+    "maxLaps": 6,
+    "maxTimeWithoutStartTime": 7200000,
+    "startTime": 60000,
+    "hotlapping": true,
+    "raceRanking": {
+      "entries": [
+        {
+          "playerIndex": 0,
+          "lastCheckpoint": 0,
+          "time": 0,
+          "lapsCompleted": -1
+        }
+      ]
+    },
+    "lapRanking": {
+      "entries": [
+        {
+          "playerIndex": 0,
+          "time": 900000000,
+          "cFlags": 0,
+          "lap": 0
+        }
+      ]
+    },
+    "checkpoints": {
+      "checkpointToSector": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "sectorToCheckpoint": [
+        0,
+        33,
+        53
+      ]
+    },
+    "playerStats": [
+      {
+        "startTime": 60000,
+        "lapsToFinish": 1,
+        "checkpointTimes": [
+          {
+            "cFlags": 0,
+            "times": []
+          }
+        ]
+      }
+    ]
+  }
+}

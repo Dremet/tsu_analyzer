@@ -69,8 +69,10 @@ def query_database():
         for i, result in enumerate(results, start=1):
             if i == 1:
                 f.write("/broadcast ### Current Top 10 ###\n")
+
+            driver = result["driver"] + ":"
             f.write(
-                f"/broadcast {i}. {result['driver'].ljust(20)}: {format_seconds_to_time(result['best_lap_seconds'])} ({result['car']})\n"
+                f"/broadcast {i}. {driver.ljust(20)} {format_seconds_to_time(result['best_lap_seconds'])} ({result['car']})\n"
             )
 
 

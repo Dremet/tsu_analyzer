@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "utcStartTimeTicks": 638611498930268880,
+  "utcStartTime": "2024-09-05T16:18:13+00:00",
+  "host": 90201503018745886,
+  "eventType": "Race",
+  "level": {
+    "name": "Rally Raiskums Latvia V1.02",
+    "guid": "123e9cerbtc3-32qtwcw",
+    "makerId": 76561198991237382,
+    "levelType": "SpecialStage"
+  },
+  "finishedState": "Stopped_NoPoints",
+  "players": [
+    {
+      "player": {
+        "name": "cyberpunk_42",
+        "id": 76561198096169747,
+        "localIndex": 0,
+        "ai": false,
+        "clan": "SDA",
+        "flag": "Bosnia_and_Herzegovina"
+      },
+      "vehicle": {
+        "name": "Hyundai i20Rally1 v2",
+        "guid": "121mrg6pkc4b-32nzckm"
+      },
+      "startPosition": 1
+    }
+  ],
+  "raceStats": {
+    "maxLaps": 1,
+    "maxTimeWithoutStartTime": 2400000,
+    "startTime": 10000,
+    "hotlapping": false,
+    "raceRanking": {
+      "entries": [
+        {
+          "playerIndex": 0,
+          "lastCheckpoint": 8,
+          "time": 105639,
+          "lapsCompleted": 0
+        }
+      ]
+    },
+    "lapRanking": {
+      "entries": [
+        {
+          "playerIndex": 0,
+          "time": 900000000,
+          "cFlags": 0,
+          "lap": 0
+        }
+      ]
+    },
+    "checkpoints": {
+      "checkpointToSector": [
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        3,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        0
+      ],
+      "sectorToCheckpoint": [
+        0,
+        25,
+        39,
+        73
+      ]
+    },
+    "playerStats": [
+      {
+        "startTime": 10000,
+        "lapsToFinish": 1,
+        "checkpointTimes": [
+          {
+            "cFlags": 0,
+            "times": [
+              10000,
+              36157,
+              45882,
+              57302,
+              73080,
+              85257,
+              94956,
+              101007,
+              105639
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
