@@ -15,6 +15,12 @@ if not postgres_url:
     )
 
 
+def format_seconds_to_time(seconds):
+    minutes = int(seconds // 60)
+    remaining_seconds = seconds % 60
+    return f"{minutes}:{remaining_seconds:06.3f}"
+
+
 # Funktion zur Verbindung und Abfrage der Datenbank
 def query_database():
     results = []
@@ -64,7 +70,7 @@ def query_database():
             if i == 1:
                 f.write("/broadcast ### Current Top 10 ###\n")
             f.write(
-                f"/broadcast {i}. {result['driver'].ljust(20)}: {result['best_lap_seconds']} ({result['car']})\n"
+                f"/broadcast {i}. {result['driver'].ljust(20)}: {format_seconds_to_time(result['best_lap_seconds'])} ({result['car']})\n"
             )
 
 
